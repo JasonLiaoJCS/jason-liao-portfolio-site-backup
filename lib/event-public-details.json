@@ -1,0 +1,1879 @@
+[
+  {
+    "eventId": "event-001",
+    "route": "/experience/jinhua-primary-school",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Before junior high school, most of my life revolved around studying, examinations, and school admissions. I did not yet have a clear picture of a future career or a mature understanding of what suited me. I simply tried to carry out the responsibilities that the adults around me had arranged."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was fortunate, however, to encounter at an early age something in which ability and genuine interest overlapped. Mathematics in the upper elementary grades began to contain turns and hidden passages rather than repetitive calculation alone. A problem could be decomposed and understood, then reconstructed through a different route. At first, the sense of accomplishment may have drawn me toward mathematics, but before long, understanding the unknown became the attraction in itself. That early sense of direction eventually led me toward mathematics, physics, mechanics, and engineering."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "國中以前，我的人生大多圍繞讀書、考試與升學。那時候的我還沒有明確的職涯想像，也談不上理解自己適合什麼，只是在大人的安排裡把該做的事情做好。"
+        },
+        {
+          "type": "paragraph",
+          "text": "幸運的是，我很早便遇見一件能力與熱愛重疊的事。小學高年級的數學開始出現彎道與暗門，不再只是重複計算。題目可以被拆解、理解，再用另一條路重新組裝。最初也許是成就感讓我靠近數學，但很快地，理解未知本身便成為吸引力。這份早期的方向感，後來一路把我帶向數學、物理、力學與工程。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-002",
+    "route": "/experience/zhongzheng-junior-high",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "At Taipei Municipal Zhongzheng Junior High School, my primary goal was still to gain admission to the high school I hoped to attend. Mathematics, however, gradually became different from my other subjects. It was no longer only for examinations. I actively sought material beyond the curriculum and willingly spent my own time on knowledge that no one had required me to learn."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was the period in which I first truly learned how to teach myself. I discovered that a much larger world existed beyond the textbook, and that I did not need to wait for a teacher to cover a topic before I could begin trying to understand it. At the time, I was still less interested in physics and had not yet seen how mathematics connected to the physical world. Even so, the desire for abstract structure and independent learning that emerged then became a foundation for my later research and engineering training."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "在臺北市中正國中，我的目標仍然很升學導向：考上理想高中。但數學逐漸成為與其他科目不同的存在。它不只是為了考試，我會主動找課外內容，也願意把零碎時間花在沒有人要求我學的知識上。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經歷讓我第一次真正學會自學。課本之外還有更廣大的世界，而一個問題不必等老師講到，才有資格開始理解。當時的我仍對物理缺乏興趣，也還沒有看見數學與真實世界的連結；但這份對抽象結構與獨立學習的渴望，已經成為後來研究與工程訓練的底色。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-003",
+    "route": "/experience/chien-kuo-gifted-class",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Entering the Mathematics and Science Gifted Class at Chien Kuo High School was my first experience in an environment with such a concentration of mathematical and scientific talent. The three years offered more than training for competitions and research; they also placed clubs, service, music, leadership, and a broader life before me at the same time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Admission to the school and selection for the gifted class used different scoring systems. Under one scale, the admission threshold was approximately 200 points. Under another recorded class-selection scale, the threshold was 1524.6, while my score was 1727.74—203.14 points above the cutoff. The two sets of figures are not interchangeable; read separately, they jointly convey the early academic strength with which I entered one of Taiwan's most competitive high-school mathematics and science environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Academically, I investigated a geometric optimization problem involving the minimum sector needed to cover arbitrary triangular and quadrilateral regions. I received second prize in the school-wide mathematics competition in my first year and continued to receive awards in all three years. I qualified for and completed the APMOC selection process in my first year and earned APMO qualification in three consecutive years. I also captained a joint TRML team for two consecutive years: at the 22nd competition in 2020, we received second prize in the Taipei regional team category and a national team bronze medal; at the 23rd competition in 2021, we received first prize in Taipei and a national silver medal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beyond the classroom, I served as lead coordinator for the gifted class's independent research symposium and overseas learning program, taught mathematics in the Science Study Club, participated in science camps at three schools, and received the Best Soloist award in the school choir competition. The overseas program was fully planned but canceled because of the pandemic and did not take place. When the in-person research symposium was also canceled, the team completed an alternative delivery through recorded presentations uploaded online. These experiences taught me collaboration, communication, crisis response, and accountability. They also showed me for the first time that life cannot be measured by examinations alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "During this period, I also lost some of my academic focus. High school broadened my world while leaving foundations that I needed to rebuild at university; my later academic reconstruction began here. The experience matters not only because of its achievements, but also because it taught me early that ability needs direction and that growth includes confronting what I had not done well."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "進入建中數資班，是我第一次置身於一個數理能力高度集中的環境。這三年給我的不只是競賽與研究訓練，也把社團、服務、音樂、領導與更廣大的生活同時放到眼前。"
+        },
+        {
+          "type": "paragraph",
+          "text": "當年的入學與班級甄選採用不同計分制度：其中一項錄取門檻約為 200 分；另一項班級選拔門檻為 1524.6，我的成績為 1727.74，高出門檻 203.14。兩組數字不能直接比較，但分別對照各自門檻，兩項甄選結果均達錄取標準。"
+        },
+        {
+          "type": "paragraph",
+          "text": "學術上，我研究以最小扇形覆蓋任意三角形與四邊形區域的幾何最佳化問題，高一獲全校數學能力競賽二等獎，高中三年持續獲獎；高一取得並通過 APMOC 選訓資格，並連續三年取得 APMO 資格。我也連續兩年擔任 TRML 聯隊隊長：第 22 屆／2020 獲臺北地區團體二等獎與全國團體銅牌；第 23 屆／2021 獲臺北市一等獎與全國銀獎。"
+        },
+        {
+          "type": "paragraph",
+          "text": "課堂之外，我統籌數資班研究成果發表會與海外學習，在科學研習社教授數學，也參與三所學校的科學營，並在合唱比賽獲最佳獨唱。海外學習完成籌備後因疫情取消、未成行；研究成果發表會的實體活動取消後，團隊改以錄影發表。這些經歷讓我學會合作、溝通、危機應變與承擔，也讓我第一次認識到，人生不能只以考試衡量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段時間我也曾失去部分學習重心。高中拓寬了我的世界，同時留下需要在大學重新補回的基礎；後來的學術重建，正是從這裡開始。這段經歷之所以重要，不只因為成績與獎項，也因為它讓我更早理解：能力需要方向，而成長也包含誠實面對沒有做好的部分。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-004",
+    "route": "/experience/ntu-academic-journey",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The regrets I carried from high school changed the questions I asked after entering NTU. Instead of asking only whether something would appear on an examination, I began asking whether I truly understood it. I returned to the fundamentals and rebuilt my mathematics, physics, and mechanics step by step, gradually recovering the satisfaction of sustained learning."
+        },
+        {
+          "type": "paragraph",
+          "text": "I entered NTU through civil engineering and also explored the possibility of electrical engineering. As my coursework deepened, I became increasingly certain that my central interests lay in mechanics, physical modeling, mechanisms, control, and systems whose behavior could be tested in the real world. I subsequently added mechanical engineering as a double major and mathematics as a minor. This path was not an attempt to accumulate degree labels. It connected three complementary perspectives: the structure of mathematics, the scale and safety responsibility of civil engineering, and the motion and implementation of mechanical engineering."
+        },
+        {
+          "type": "paragraph",
+          "text": "During my undergraduate studies, I completed 163 credits and earned a cumulative GPA of 4.13/4.30. I received A+ grades in 46 graded course records totaling 110 credits, earned the NTU Academic Excellence Award, and became involved in bio-inspired robotics research, control, and several engineering projects. More important than the grades themselves, I found a field in which my abilities, interests, and sense of purpose could accumulate in the same direction."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "高中留下的遺憾，讓我進入臺大後不再只問「這會不會考」，而是問自己是否真的理解。我開始回到基礎，把數學、物理與力學一點一點補齊，也逐漸找回長時間投入學習的快樂。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我最初從土木工程進入臺大，也曾探索電機工程的可能。隨著課程深入，我更確定自己的核心興趣在力學、物理建模、機構、控制與能被實際驗證的系統，因此後來取得機械工程雙主修與數學輔系資格。這條路不是追求科系數量，而是把三種互補視角接在一起：數學的結構、土木的安全與尺度、機械的運動與實作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "大學期間，我完成 163 學分，累積 GPA 4.13／4.30；46 筆計分修課、110 個學分取得 A+，並曾獲書卷獎，也投入仿生機器人研究、控制與多項工程專案。比成績更重要的是，我終於找到能讓能力、熱情與價值感朝同一方向累積的領域。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-005",
+    "route": "/experience/ntu-mechanical-engineering",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I chose mechanical engineering because it brings together my interests in mathematics, physics, and building real systems. Mathematics and theory are beautiful, but that beauty can sometimes remain at a distance; mechanical engineering brings it into view. A mechanism you design should move. A model you derive should make predictions. When you adjust a controller, the response of the system should change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through my mechanical-engineering training at NTU, I progressively developed foundations in dynamics, mechanics of materials, thermal-fluid sciences, control, mechanical design, manufacturing, and engineering computation. I then placed that knowledge into real systems through RedRHex, Aero Carrier, LKAS, the purely mechanical arm, and the Inventor project."
+        },
+        {
+          "type": "paragraph",
+          "text": "I do not want to become an engineer who can derive equations but cannot confront hardware, nor one who can assemble components without the judgment that comes from a model. What attracts me most to mechanical engineering is that it makes these two capabilities constrain and validate one another."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我選擇機械工程，是因為它同時回應了我對數學、物理與實作的興趣。數學與理論很美，但有時美在遠處；機械工程會把它們推到眼前。你設計一個機構，它應該能動；你推導一個模型，它應該能預測；你調整控制器，系統的反應便會改變。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在臺大機械的訓練中，我逐步建立動力學、材料力學、熱流、控制、機械設計、製造與工程計算基礎，再透過 RedRHex、Aero Carrier、LKAS、純機械吊臂與 Inventor 專案把知識放進真實系統。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我不想成為只會推導卻無法面對硬體的工程師，也不想只會拼裝而缺乏模型判斷。機械工程最吸引我的，正是讓這兩種能力彼此約束、彼此驗證。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-006",
+    "route": "/experience/ntu-civil-engineering",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I entered NTU through civil engineering, later added mechanical engineering as a double major, and continued substantial study in both fields. The purpose was not to add titles. Civil and mechanical engineering provide complementary perspectives on mechanics: mechanical systems generally need degrees of freedom, and a design that cannot move often loses its function; unplanned movement in a civil structure, however, can directly endanger lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "This contrast helped me understand that engineering judgment encompasses more than performance optimization. It also includes safety, reliability, scale, material uncertainty, and long-term responsibility. Training in soil mechanics, structural analysis, and matrix structural analysis expanded the way I approach solid mechanics and numerical methods."
+        },
+        {
+          "type": "paragraph",
+          "text": "These perspectives are equally important to my future work in robotics. A policy is not sufficient merely because the robot can move; failure, loading, structural constraints, and risk must also be understood."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我由土木工程進入臺大，後來取得機械工程雙主修資格，並持續完整修習兩個領域。這不是為了增加頭銜，而是因為土木與機械提供了互補的力學視角：機械系統通常必須擁有自由度，設計若不能動往往失去功能；土木結構若任意移動，卻可能直接危及生命。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這個對比讓我更理解，工程判斷不只有性能最佳化，也包含安全、可靠度、尺度、材料不確定性與長期責任。土壤力學、結構分析與結構矩陣等訓練，也擴張了我看待固體力學與數值方法的方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "對未來的機器人研究而言，這些觀點同樣重要：一個策略不是能跑就足夠，還必須理解失效、負載、結構限制與風險。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-007",
+    "route": "/experience/ntu-mathematics-minor",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Mathematics was the first field of knowledge I truly loved. What fascinated me was not only the speed of solving a problem, but the order expressed through symmetry, covariance, abstraction, and unification. Even after choosing mechanical engineering, I wanted to preserve a long-term engagement with pure mathematics, so I pursued a minor in mathematics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Training in calculus, linear algebra, differential equations, numerical analysis, and mathematical analysis allows me to do more than call tools when working with control, optimization, dynamics, and reinforcement learning. It helps me understand the assumptions and limitations underlying those methods."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "數學是我最早真正熱愛的知識。我著迷的不只是解題速度，而是對稱性、協變性、抽象與統一所呈現的秩序。即使最後選擇機械工程，我仍希望保留對純數學的長期追求，因此修讀數學輔系。"
+        },
+        {
+          "type": "paragraph",
+          "text": "微積分、線性代數、微分方程、數值分析與數學分析等訓練，讓我在面對控制、最佳化、動力學與強化學習時，不只會調用工具，也更能理解方法的假設與限制。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-008",
+    "route": "/experience/ntu-academic-excellence-award",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I value grades not as the endpoint of learning, but as an external test of whether my fundamentals remain sound. While pursuing a double major in Mechanical Engineering and Civil Engineering and a minor in Mathematics, I maintained a demanding course load and received the NTU Academic Excellence Award. Through Academic Year 114, Semester 2, my cumulative GPA was 4.13/4.30, with 110 of 156 graded credits completed at A+."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Academic Excellence Award complements a record that includes three all-A+ academic foundations. Final reports, derivations, experiments, and projects show how that preparation is applied in practice."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我重視成績，並不是把分數當成學習的終點，而是讓基本功接受外部檢驗。大學期間，我在機械工程與土木工程雙主修、數學輔系之間維持高強度修課，曾獲臺大書卷獎；截至 114-2，累積 GPA 為 4.13／4.30，156 個計分學分中有 110 學分取得 A+。"
+        },
+        {
+          "type": "paragraph",
+          "text": "書卷獎與成績單、三組成績皆為 A+ 的核心課程群及代表課程成果，共同呈現我的學業表現；期末報告、推導、實驗與專案，則記錄我如何把課堂所學落實於研究與工程。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-009",
+    "route": "/experience/ntu-gpa-a-plus-record",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mechanical Engineering major results"
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculated from course-level grades and actual credit weights, my **Mechanical Engineering Major GPA is 4.19 / 4.30**; using the documented course-by-course conversion below, the same course set is **3.96 / 4.00**. This definition covers 41 graded records and 99 graded credits: all letter-graded ME-coded courses together with the mathematics, physics, chemistry, and programming foundations required for the major."
+        },
+        {
+          "type": "paragraph",
+          "text": "My **Required Mechanical Engineering Coursework GPA is 4.21 / 4.30**, or **3.98 / 4.00** after course-by-course conversion, across 30 graded records and 70 graded credits. It reflects performance in the prescribed curriculum and is listed separately from the broader major-GPA calculation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GPA definitions and calculations"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "GPA definition",
+            "Graded records / credits",
+            "4.30 scale",
+            "4.00 course-by-course conversion",
+            "Courses included"
+          ],
+          "rows": [
+            [
+              "Overall cumulative GPA",
+              "67 / 156",
+              "**4.13 / 4.30**",
+              "**3.92 / 4.00**",
+              "All graded courses across eight semesters"
+            ],
+            [
+              "Mechanical Engineering Major GPA",
+              "41 / 99",
+              "**4.19 / 4.30**",
+              "**3.96 / 4.00**",
+              "Letter-graded ME courses plus the mathematics, physics, chemistry, and programming foundations for the major"
+            ],
+            [
+              "Mechanical / robotics relevant technical coursework",
+              "50 / 120",
+              "**4.19 / 4.30**",
+              "**3.95 / 4.00**",
+              "Broader technical coursework related to mechanics and robotics"
+            ],
+            [
+              "ME-prefix GPA",
+              "30 / 76",
+              "**4.17 / 4.30**",
+              "**3.95 / 4.00**",
+              "Letter-graded ME-coded courses only"
+            ],
+            [
+              "Engineering / STEM Technical GPA",
+              "55 / 130",
+              "**4.17 / 4.30**",
+              "**3.95 / 4.00**",
+              "Letter-graded ME, CIE, MATH, Phys, Chem, IE, and CSIE courses"
+            ],
+            [
+              "Required Mechanical Engineering Coursework GPA",
+              "30 / 70",
+              "**4.21 / 4.30**",
+              "**3.98 / 4.00**",
+              "Prescribed Mechanical Engineering curriculum completed for letter grades"
+            ],
+            [
+              "Mechanical Engineering Major GPA excluding undergraduate research",
+              "39 / 95",
+              "**4.20 / 4.30**",
+              "**3.96 / 4.00**",
+              "Mechanical Engineering major course set excluding undergraduate research"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Strength across the full record"
+        },
+        {
+          "type": "paragraph",
+          "text": "Across eight semesters, I completed 163 earned credits, of which 156 carry letter grades. **110 of 156 graded credits (70.5%) earned A+**, while 138 graded credits earned A or above. Three foundations central to my current work—calculus and engineering mathematics; core mechanics and dynamics; and programming, linear algebra, and numerical methods—comprise **20 graded records and 50 credits, all at A+ (4.30 / 4.30)**. The record also includes the NTU Academic Excellence Award, seven consecutive semester GPAs above 4.00 / 4.30, and no failing grades."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Calculation method and references"
+        },
+        {
+          "type": "paragraph",
+          "text": "The major-GPA course set is informed by published university definitions. [UC Berkeley Mechanical Engineering's MEng admissions page](https://me.berkeley.edu/graduate/meng-admissions/) includes mathematics and physics in technical major coursework, while [Claremont McKenna College Registrar guidance](https://www.cmc.edu/registrar/calculating-major-gpa/) states that two majors should be calculated separately. The 4.00-scale figures use [UC Berkeley Mechanical Engineering's international GPA conversion table](https://me.berkeley.edu/wp-content/uploads/2019/01/International-GPA-Conversion.pdf): A+ and A map to 4.0, A− to 3.7, B+ to 3.3, and so on, with each course weighted by its actual credits. The values are not produced by linearly scaling 4.30 to 4.00."
+        },
+        {
+          "type": "paragraph",
+          "text": "All figures are reproducible calculations from course-level grades and credits rather than official NTU transcript GPA fields. The referenced university materials provide methodological definitions and do not constitute an endorsement. The official transcript and each institution's own academic policies remain authoritative."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "機械工程主修成績"
+        },
+        {
+          "type": "paragraph",
+          "text": "依單科成績與實際學分計算，我的 **機械工程主修 GPA 為 4.19／4.30**；依下方所列方式逐科換算為 **3.96／4.00**。此範圍涵蓋 41 筆計分紀錄、99 個計分學分，包括所有具字母成績的 ME 課號課程，以及機械工程主修所需的數學、物理、化學與程式設計基礎課程。"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械系定必修 GPA 為 **4.21／4.30**，逐科換算為 **3.98／4.00**，涵蓋 30 筆計分紀錄、70 個計分學分。此數值反映系定必修課程表現，與範圍較廣的機械工程主修 GPA 分列。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GPA 採計範圍與換算結果"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "GPA 採計範圍",
+            "計分紀錄／學分",
+            "4.30 制",
+            "4.00 制逐科換算",
+            "採計說明"
+          ],
+          "rows": [
+            [
+              "整體累計 GPA",
+              "67／156",
+              "**4.13／4.30**",
+              "**3.92／4.00**",
+              "全部計分課程的學分加權平均"
+            ],
+            [
+              "機械工程主修 GPA",
+              "41／99",
+              "**4.19／4.30**",
+              "**3.96／4.00**",
+              "機械工程系課程與主修所需的數學、物理、化學及程式設計基礎課程"
+            ],
+            [
+              "機械／機器人相關技術課程 GPA",
+              "50／120",
+              "**4.19／4.30**",
+              "**3.95／4.00**",
+              "機械與機器人方向的相關技術課程"
+            ],
+            [
+              "ME 課號 GPA",
+              "30／76",
+              "**4.17／4.30**",
+              "**3.95／4.00**",
+              "僅計入 ME 課號課程"
+            ],
+            [
+              "工程與 STEM 技術課程 GPA",
+              "55／130",
+              "**4.17／4.30**",
+              "**3.95／4.00**",
+              "ME、CIE、MATH、Phys、Chem、IE 與 CSIE 的計分課程"
+            ],
+            [
+              "機械系定必修 GPA",
+              "30／70",
+              "**4.21／4.30**",
+              "**3.98／4.00**",
+              "機械系定必修課程"
+            ],
+            [
+              "排除學士專題研究的機械工程主修 GPA",
+              "39／95",
+              "**4.20／4.30**",
+              "**3.96／4.00**",
+              "主修課程中不計學士專題研究"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "完整學業紀錄中的優勢"
+        },
+        {
+          "type": "paragraph",
+          "text": "八個學期共取得 163 學分，其中 156 個學分採字母成績計分。**156 個計分學分中有 110 學分取得 A+，占 70.5%**，另有 138 個學分取得 A 以上。與目前研究方向密切相關的三組核心課程——微積分與工程數學、核心力學與動力學，以及程式設計、線性代數與數值方法——合計 **20 門計分課程、50 學分全數 A+（4.30／4.30）**。學業紀錄另包含臺大書卷獎、連續七學期的學期 GPA 均高於 4.00／4.30，且沒有不及格紀錄。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "計算方法與參考依據"
+        },
+        {
+          "type": "paragraph",
+          "text": "主修 GPA 的課程範圍參考校方公開定義：[UC Berkeley Mechanical Engineering 的 MEng 申請頁](https://me.berkeley.edu/graduate/meng-admissions/)將數學與物理納入 technical major coursework；[Claremont McKenna College Registrar 的 Major GPA 說明](https://www.cmc.edu/registrar/calculating-major-gpa/)則說明雙主修應分別計算。4.00 制數值依 [UC Berkeley Mechanical Engineering 的國際 GPA 換算表](https://me.berkeley.edu/wp-content/uploads/2019/01/International-GPA-Conversion.pdf)逐科對應：A+、A 為 4.0，A− 為 3.7，B+ 為 3.3，依此類推，再按每科實際學分加權；並非將 4.30 線性縮放為 4.00。"
+        },
+        {
+          "type": "paragraph",
+          "text": "以上數值均依單科成績與學分重新計算，不是臺大成績單直接核發的 GPA 欄位。所引校方資料僅作為方法與定義的參考，不代表相關學校對本人成績的認可；正式成績仍以臺大成績單與各校或學程的採計規定為準。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-011",
+    "route": "/experience/joining-ntu-biorola",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Joining BioRoLa was my first opportunity to work continuously on a robotics problem with no single correct answer. RedRHex starts from a simple but powerful idea. A conventional RHex uses six compliant C-shaped rotating legs to achieve robust locomotion over irregular terrain; our platform adds an ABAD (abduction/adduction) degree of freedom to every leg so that each leg can move laterally as well as rotate. That additional joint may look like a modest mechanical change, but dynamically it changes reachable foot placement, support geometry, lateral force generation, and the coupling between leg motion and body roll or yaw. The research question that interests me is therefore not “how do we make twelve motors move?” but rather: **what capabilities can ABAD create that a conventional RHex cannot easily achieve, and how should a controller learn to exploit that extra degree of freedom?**"
+        },
+        {
+          "type": "paragraph",
+          "text": "My work begins with the robot’s digital representation. The physical mechanism is organized in Inventor and Fusion 360, described through URDF / xacro with links, joints, mass properties, inertia, collision geometry, and actuator information, and then imported into Isaac Sim as a USD asset for Isaac Lab. The difficult part is not merely getting a CAD model to import successfully. The challenge is preserving the dynamic properties that matter while simplifying the geometry enough for stable, massively parallel simulation. Visual meshes may remain detailed, but collision geometry often needs to be simplified; joint axes, signs, units, inertia, and centers of mass must all be consistent. A single error can produce a robot that looks correct but behaves according to the wrong physics. I therefore learned to treat modeling as part of control itself: even an excellent policy can only learn the physics of the world it is given, and PPO will faithfully optimize the wrong world if that world was modeled incorrectly."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Isaac Lab, I build and iteratively refine a Direct RL environment for RedRHex. The policy uses a 12-dimensional action space that separates the six main rotating leg joints from the six ABAD joints. Main-drive joints are velocity-controlled and provide the characteristic RHex rotational propulsion, while ABAD joints are position-controlled and reshape the robot’s lateral support geometry. The observation vector includes body linear and angular velocities, projected gravity, cyclic leg phase representations, joint velocities, ABAD positions and velocities, commanded velocity, gait phase, and previous actions. The policy therefore receives more than a simple signal of whether the robot is moving forward; it can reason from body attitude, leg phase, joint state, and task commands to learn command-conditioned locomotion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multi-skill locomotion has been one of the most difficult parts of the project. Training forward, lateral, diagonal, and yaw behaviors simultaneously from the beginning can cause the easiest behavior to dominate the optimization signal while other skills remain weak. I therefore organized the learning process as a curriculum: establish a stable forward baseline first, then isolate lateral motion, diagonal motion, and in-place yaw, and finally integrate them in a mixed stage. The environment also uses command-mode classification, action gating, and a lateral state machine so that each skill is learned through physically meaningful control channels. In pure lateral motion, for example, the main-drive channel can be restricted so that the policy must actually exploit ABAD rather than “cheating” through unintended wheel-like motion. Before lateral stepping begins, the robot first returns to a reproducible standing pose, reducing the number of failures caused by inconsistent initial contact configurations. These constraints are not intended to hard-code the final solution; they remove obvious shortcuts so that learning focuses on the mechanism we actually want to study."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reward design taught me another fundamental lesson: a robot optimizes what is rewarded, not what the designer vaguely intended. An early tendency in locomotion is to accumulate many penalties for posture, gait, energy, smoothness, and contact until the safest solution becomes doing almost nothing. I therefore moved toward a simpler, command-centered reward structure with only the stability and anti-cheating terms needed to rule out specific failure modes. Reward weights are centralized in configuration files, while TensorBoard diagnostics and ablation flags make it possible to compare versions systematically. Reward shaping then becomes an experimental question rather than an exercise in tuning numbers by intuition: what failure mode is a term intended to eliminate, does it improve the task metric, and what behavior reappears when that term is removed?"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the same reason, I deliberately avoid treating mean reward as the definition of success. In addition to TensorBoard metrics such as reward components, episode length, falls, base height, velocity errors, and skill-specific diagnostics, I use command sweeps that evaluate fixed forward, lateral, diagonal, and yaw commands. The evaluation measures linear and angular tracking errors, cross-axis leakage, fall rate, roll / pitch RMS, contact behavior, and skill-level PASS / FAIL criteria. This makes different checkpoints, reward designs, and curriculum configurations comparable under the same acceptance test. It turns “the robot looks like it can move” into evidence that can be reproduced, discussed, and challenged."
+        },
+        {
+          "type": "paragraph",
+          "text": "The other half of the project begins where simulation ends. A policy that performs well in Isaac Lab is not automatically a reliable robot controller. Real deployment introduces actuator saturation, inaccurate friction and inertia, sensor noise, communication latency, current limits, low-level control bandwidth, mechanical compliance, and initialization errors. My work therefore extends into ONNX policy deployment, ROS 2, the Jetson onboard computer, NI sbRIO, motor-control interfaces, and a state machine that manages repeatable stand, warm-up, run, protection, and recovery behavior. Domain randomization, observation noise and latency, actuator-strength perturbations, and terrain curricula are used to reduce the simulation-to-reality gap. One of the most important current challenges is converting behavior that is successful in simulation into behavior that is safe, repeatable, and diagnosable on the physical robot."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project also changed the way I debug engineering systems. A CAD model that looks correct may still have incorrect inertia, collision geometry, or joint axes. A rising TensorBoard reward does not guarantee correct command tracking. Motor oscillation on hardware is not automatically a policy problem; it may originate in power delivery, communication, low-level control, actuator saturation, mechanical play, joint ordering, or unit conventions. I have learned to turn the vague observation that “the robot behaves strangely” into a sequence of testable hypotheses and then isolate them layer by layer—from mechanism and model to learning algorithm and hardware. That is one of the aspects of robotics I find most compelling: mathematics, physics, software, and hardware cannot be correct in isolation; they ultimately have to agree on the same physical machine."
+        },
+        {
+          "type": "paragraph",
+          "text": "The work is also deeply collaborative. RedRHex spans mechanism design, dynamics, reinforcement learning, embedded systems, and low-level control, so the team must keep joint ordering, coordinate conventions, units, message contracts, safety limits, checkpoints, test procedures, and version states aligned. I enjoy working at these interfaces: understanding the assumptions held by different members, translating them into shared technical language, and organizing the next experiment around evidence that everyone can inspect. Research is therefore not only about completing my own module; it is about turning a collection of individually correct components into one robotic system that can be understood, validated, and eventually deployed."
+        },
+        {
+          "type": "paragraph",
+          "text": "The most important thing I have learned at BioRoLa is not a particular software package, but a research method: begin with the physics, abstract it into a model, build reproducible experiments around that model, extract mechanisms from failure, and then take the conclusions back to the physical world. RedRHex is the first system in which I have been able to connect the mechanics, mathematics, control theory, and programming that I enjoy into one machine. It has also made my future direction clearer: I want to work on robotics problems that require understanding both **why a machine moves** and **how to make it move reliably in the real world**."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "加入 BioRoLa 後，我第一次真正長期面對一個「沒有唯一正解」的機器人研究問題。RedRHex 的出發點很直接：傳統 RHex 依靠六條 C 型旋轉腿，以簡潔而強健的機構跨越不平整地形；我們則在每條腿額外加入 ABAD（Abduction/Adduction）自由度，讓腿能向外展開或向內收合。這個改動看似只是增加一個關節，實際上卻改變了足端可達位置、支撐幾何、側向受力以及機身 roll／yaw 的耦合關係。對我而言，真正有趣的研究問題因此不是「怎麼讓十二顆馬達都動起來」，而是：**ABAD 究竟能創造什麼傳統 RHex 難以做到的能力？又該如何設計控制器，讓策略真的學會利用這個額外自由度？**"
+        },
+        {
+          "type": "paragraph",
+          "text": "我的工作從機器人的數位模型開始。真實機構先由 Inventor／Fusion 360 整理，再經 URDF／xacro 描述 link、joint、mass、inertia、collision 與 actuator 等資訊，最後匯入 Isaac Sim 轉成可供 Isaac Lab 使用的 USD。這個過程最大的挑戰不是把 CAD「轉檔成功」，而是把真實機器人的動力學特性用模擬器能穩定計算的形式保留下來：視覺幾何可以複雜，碰撞幾何卻必須適度簡化；joint axis、正負方向、單位、慣量與質心只要有一處錯誤，模擬中的運動就可能完全失真。也因此，我逐漸把建模視為控制的一部分——policy 再聰明，也只能學會它所處的那個「物理世界」；如果世界本身建錯了，PPO 只會非常有效率地學會錯的物理。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 Isaac Lab 中，我建立並持續調整 RedRHex 的 Direct RL environment。策略的 12 維 action space 將六個主驅動旋轉關節與六個 ABAD 關節分工：主驅動採速度控制，負責 RHex 式腿部旋轉與主要推進；ABAD 採位置控制，提供側向幾何與姿態調節能力。觀測則包含機身線速度與角速度、重力投影、主驅動腿的週期相位、關節速度、ABAD 位置與速度、速度命令、gait phase 與 previous action 等資訊。這些設計讓策略不只是「看到自己有沒有前進」，而是能感知身體姿態、腿部週期與命令需求，進而學習一套 command-conditioned locomotion policy。"
+        },
+        {
+          "type": "paragraph",
+          "text": "多技能 locomotion 也是這項研究最具挑戰性的部分之一。若一開始把 forward、lateral、diagonal 與 yaw 全部混在一起訓練，策略很容易被最容易取得 reward 的技能主導，其他能力則學不起來。因此我把訓練流程整理成課程式學習（curriculum learning）：先讓策略建立穩定直走能力，再分別學習側移、斜向與原地旋轉，最後回到 mixed stage 做整合。環境內同時使用 command mode classification、action gating 與 lateral state machine，讓不同技能在適合的控制通道中學習。例如純側移時限制主驅動通道，迫使策略真正利用 ABAD；而側移前先回到可重現的站姿，再進入步進階段，降低探索初期因姿態混亂造成的失敗。這些限制不是為了把答案硬寫進 policy，而是先排除明顯不合理的捷徑，讓學習集中在我們真正想研究的機制上。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reward 設計則讓我更深刻理解「機器人會做你獎勵的事，而不是你心裡想的事」。早期若同時堆疊過多穩定、步態、能耗與平滑性條件，很容易讓 policy 學成一個「最安全的解」——站著不動。後續我把 reward 從大量互相競爭的項目，重新整理成以命令追蹤為核心、搭配必要穩定性與防作弊條件的結構，並將權重集中在 config 中，配合 TensorBoard diagnostics 與 ablation flags 做系統化比較。對我而言，reward shaping 不再只是憑直覺調一串數字，而是一個必須回答「這個 term 想排除什麼 failure mode？它是否真的改善任務指標？拿掉之後會發生什麼？」的實驗設計問題。"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此，我也刻意把「訓練成功」從單一 mean reward 中解放出來。除了 TensorBoard 中的 reward、episode length、fall、base height、velocity error 與各技能 diagnostics，我另外使用 command sweep 對固定的 forward／lateral／diagonal／yaw 命令逐一測試，評估速度與角速度追蹤誤差、cross-axis leakage、跌倒率、roll／pitch RMS、接觸狀態與各技能的 PASS／FAIL。這套流程讓不同 checkpoint、reward 版本與 curriculum 設定可以在同一套標準下比較，也讓「看起來會走」轉化成真正可討論、可重現、可驗收的工程證據。"
+        },
+        {
+          "type": "paragraph",
+          "text": "研究的另一端是真機。模擬中成功的 policy 並不會自動成為一個可靠的機器人控制器；真正部署時還必須面對馬達輸出限制、摩擦與慣量誤差、感測雜訊、通訊延遲、電流保護、低階控制頻寬與初始化姿態等現實條件。我的工作也延伸到 ONNX policy、ROS 2、Jetson onboard computer、NI sbRIO、motor controller 與 state machine 的整合，並透過 domain randomization、觀測噪聲／延遲、致動器強度擾動與地形 curriculum，逐步縮小 simulation-to-reality gap。現在最重要的問題之一，正是把「模擬中學會的行為」轉成「真機上可安全、可重複、可診斷的行為」。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段研究也改變了我看待 debugging 的方式。CAD 看起來正確，不代表 inertia、collision 或 joint axis 正確；TensorBoard reward 上升，不代表 command tracking 正確；真機抖動，也不代表一定是 policy 的問題，它可能來自電源、通訊、低階控制、馬達飽和、機構間隙，甚至只是 joint order 或 unit 沒有對齊。我逐漸學會把「機器人不對勁」拆成一系列可以被驗證的假設，從機構、模型、演算法到硬體逐層排除，而不是直接把問題歸咎於某一個模組。對我而言，這正是機器人研究最迷人的地方：數學、物理、程式與硬體沒有任何一層能獨立成立，最後必須在同一台真正會動的機器上彼此說得通。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這也是一段高度協作的研究經驗。RedRHex 橫跨機構設計、動力學建模、強化學習、嵌入式系統與低階控制；團隊必須共同對齊 joint ordering、coordinate convention、units、message contract、safety limits、checkpoint、測試順序與版本狀態。我很享受站在這些介面之間工作：先理解不同成員手上的模型與限制，再把假設、數據、責任與下一步整理成可以被共同檢查的語言。研究因此不只是「我把自己的部分做好」，而是讓整個系統從一堆各自正確的模組，真正變成一台可以被理解、被驗證、最後被部署的機器人。"
+        },
+        {
+          "type": "paragraph",
+          "text": "對我而言，BioRoLa 最重要的收穫並不是學會某一套軟體，而是建立了一種研究方法：從物理問題出發，把它抽象成模型；從模型建立可重現的實驗；從失敗中找出可驗證的機制；再把結論帶回真實世界。RedRHex 讓我第一次把自己喜歡的力學、數學、控制與程式真正接到同一個系統上，也讓我更確定，未來我想繼續做的，是那些必須同時理解「為什麼會動」與「如何讓它真的動起來」的機器人研究。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-014",
+    "route": "/writing/mathematica-curvilinear-basis",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Turning a derivation into checkable symbolic computation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Basis vectors in curvilinear coordinates change with position, and their derivatives form an important foundation for vector analysis, continuum mechanics, and tensor operations. I implemented the derivation symbolically so that basis-vector derivatives in different coordinate systems could be computed, checked, and presented. I also presented the program in an NTU class."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Symbolic computation and classroom presentation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The program turns an analytic derivation into a repeatable, checkable computation. I presented both the mathematical basis and the implementation in an NTU class."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "把推導變成可重複檢查的符號計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲線座標中的基底會隨位置改變，其微分是向量分析、連續體力學與張量運算的重要基礎。我將相關推導程式化，使不同座標系中的基底向量微分能被符號計算、檢查與展示，並曾在臺大課堂介紹自寫程式。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "符號計算與課堂分享"
+        },
+        {
+          "type": "paragraph",
+          "text": "這套程式將解析推導整理為可重複執行與檢查的計算流程，並曾於臺大課堂介紹其數學原理與實作方式。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-015",
+    "route": "/writing/engineering-mathematics-notes",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "My notes began simply as a way to review, but gradually became a long-term knowledge-organization project. When formulas are easy to confuse, I return to their assumptions. When a general rule and a special case differ, I place them on the same conceptual map. When an explanation does not convince me, I derive it again or verify it using Mathematica, MATLAB, or Python."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Engineering Mathematics collection has therefore grown beyond 1,600 pages, and I have developed similarly systematic notes for other core mechanics and mathematics courses. The notes increasingly resemble teaching materials because I often need to explain the content to classmates. Teaching forces me to inspect every skipped step, while classmates' questions provide feedback that exposes gaps in my own understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": "The collection now exceeds 1,600 pages, but its value lies in the complete derivations, maps between concepts, computational cross-checks, and later applications in control, mechanics, and research. The notes have developed over time into a resource that I can revise, reorganize, and use in teaching."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我的筆記一開始只是為了複習，後來逐漸變成一項長期的知識整理工程。遇到容易混淆的公式，我會回到假設；遇到一般規則與特殊情況，我會把它們放在同一張地圖裡；遇到無法說服自己的地方，便重新推導或用 Mathematica、MATLAB、Python 驗證。"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程數學筆記因此累積超過 1,600 頁，其他核心力學與數學課程也有系統整理。筆記越來越像講義，是因為我常需要把內容講給同學聽。教學迫使我檢查每一個跳步，也讓同學的問題成為找到知識盲區的回饋。"
+        },
+        {
+          "type": "paragraph",
+          "text": "頁數本身不是重點；真正能代表深度的，是其中完整的推導、概念之間的地圖、以程式交叉驗證的例子，以及這些知識如何回到控制、力學與研究問題。超過 1,600 頁所記錄的，並不是一次性的用功，而是一套能持續修正、重組並向他人說明的學習方法。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-021",
+    "route": "/experience/chien-kuo-mathematics-competition",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "After entering the Mathematics and Science Gifted Class at Chien Kuo High School, my mathematical ability was tested over time in a peer group with an unusually high concentration of mathematical and scientific talent. Receiving second prize in the school-wide mathematics competition in my first year showed that my earlier mathematical intuition and problem-solving foundation could carry into a more demanding setting. Continuing to receive recognition in all three years turned one strong result into a sustained record."
+        },
+        {
+          "type": "paragraph",
+          "text": "For me, the value of this experience extends beyond any single certificate. It trained me to remain patient when an answer was not immediately visible: identify the structure of a problem, separate its conditions, test different paths, and then verify that the reasoning was complete. The same working method later carried into my geometric covering research, advanced mathematics training, and engineering problems that require modeling, experimentation, and iteration."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "進入建中數資班後，我的數學能力第一次在一個數理程度高度集中的同儕環境中接受長期檢驗。高一在全校數學能力競賽獲得二等獎，之後連續三年獲獎，形成跨越三個學年的穩定紀錄。"
+        },
+        {
+          "type": "paragraph",
+          "text": "對我而言，這段歷程的價值不只是一張獎狀，而是學會在沒有立即答案時維持耐心：先辨認題目的結構，拆分條件，嘗試不同路徑，再檢查推理是否完整。這套工作方式後來也延伸到幾何覆蓋研究、數學選訓，以及需要模型、實驗與迭代的工程問題。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-022",
+    "route": "/experience/apmoc-apmo-tmo-selection",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The value of advanced mathematics training extends beyond a final result. Many problems cannot be solved by applying a familiar formula. They require a fresh examination of invariants, deliberate constructions, extreme cases, and several competing proof strategies. I qualified for and completed the APMOC selection process in my first year of high school and earned APMO qualification in all three years. Advanced problems associated with APMO and TMO became an important foundation of my early mathematical development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Across those three years, I developed a problem-solving habit that I still use: define the objects and constraints precisely, search for the governing structure, test conjectures against counterexamples, and turn intuition into an argument another reader can inspect step by step. That habit shaped not only my competition work, but also my later approach to mathematical research and engineering modeling."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "數學選訓的價值不只在最終結果。許多題目無法套用熟悉公式，而必須重新觀察不變量、設計構造、檢查極端情況，甚至在多條看似可行的路徑之間反覆取捨。高一取得並通過 APMOC 選訓資格，高中三年連續取得 APMO 資格；APMO／TMO 的高階問題訓練，成為我早期數學能力的重要底層。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段持續三年的訓練，讓我逐漸形成一套至今仍在使用的解題習慣：先把定義與限制說清楚，再尋找問題中的結構；必要時透過反例修正猜想，最後把直覺整理成他人能逐步檢查的論證。它不只塑造了我的競賽能力，也影響我後來進行數學研究與工程建模的方式。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-023",
+    "route": "/experience/trml-captain-2020-2021",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "TRML is not a mathematics competition based solely on individual performance. A team must allocate problems, exchange ideas quickly, decide under time pressure which questions merit continued effort, and enable different problem-solving styles to support one another."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Two-Year Record"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Year / Competition",
+            "Role",
+            "Team Result"
+          ],
+          "rows": [
+            [
+              "2020 / 22nd TRML",
+              "Captain, joint Science Class and Mathematics and Science Gifted Class team",
+              "Second prize in the Taipei regional team category; national team bronze medal"
+            ],
+            [
+              "2021 / 23rd TRML",
+              "Captain, joint Science Class and Mathematics and Science Gifted Class team",
+              "First prize in Taipei; national silver medal"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to solving problems, I coordinated the team's pace, division of work, and flow of information, helping different approaches form a shared strategy under time pressure. Leading the team for two consecutive years taught me early that difficult problems demand more than individual ability. They also require trust, judgment, and a collaborative structure in which every member can contribute effectively."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "TRML 並不是一場只看單人表現的數學競賽。團隊必須安排解題分工、快速交換想法，在時間壓力下判斷哪些問題值得持續投入，也要讓不同解題風格彼此支援。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "兩年成果"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "年度／屆次",
+            "角色",
+            "團隊成果"
+          ],
+          "rows": [
+            [
+              "2020／第 22 屆",
+              "建中科學班與數理資優班聯隊隊長",
+              "臺北地區團體二等獎、全國團體銅牌"
+            ],
+            [
+              "2021／第 23 屆",
+              "建中科學班與數理資優班聯隊隊長",
+              "臺北市一等獎、全國銀獎"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "除了參與解題，我也協調科學班與數理資優班成員的節奏、分工與資訊交換，讓不同解題風格在時間壓力下形成共同策略。連續兩年帶隊，使我很早便體會到：高難度問題不只需要個人能力，也需要信任、判斷，以及讓每個人都能有效貢獻的合作結構。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-024",
+    "route": "/experience/geometry-covering-science-fair-honor",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The geometric-covering study received an Excellence Award after written submission, presentation, and external evaluation. The award followed a complete cycle of problem definition, mathematical analysis, reporting, and public presentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "For me, the value of the Excellence Award is that an early mathematical interest underwent a complete process of problem definition, proof, writing, and public presentation for the first time. It also became an important starting point for my later progression into engineering research."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這項優等獎是幾何覆蓋研究經參展、發表與評審後取得的正式成果。研究內容涵蓋問題定義、方法、六區分類結果與限制；獎項則反映該研究經公開發表後獲得的肯定。"
+        },
+        {
+          "type": "paragraph",
+          "text": "對我而言，這項優等獎的價值在於，早期的數學興趣第一次經過問題定義、論證、寫作與公開發表的完整檢驗。它也成為我後來走向工程研究的重要起點。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-025",
+    "route": "/experience/chien-kuo-chorus-best-soloist",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Singing and research may appear far apart, but both require repeated practice, the willingness to hear one's own shortcomings, and confidence in one's preparation at the moment of performance. Choir is also never a solo undertaking. Even when one person receives the Best Soloist award, the performance rests on the rehearsal and coordination of the entire class or ensemble."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although this experience sits outside my research work, it reflects stage communication, collaboration, and a sustained interest in music."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "唱歌和研究看似距離很遠，卻都需要反覆練習、聽見自己的不足，也需要在正式上場時相信準備。合唱更不是單人表演；即使獲得最佳獨唱，成果仍建立在整個班級或團隊的排練與配合上。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段舞台經驗也延續到後來的大學演出，讓音樂成為我在研究與課業之外，練習表達、傾聽與合作的重要部分。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-026",
+    "route": "/experience/ntu-peer-review-sessions",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I often use teaching as a way to review. Answering a classmate's question requires me to take apart the concepts in my own mind, reorder them, and identify the clearest path forward. The questions classmates ask also reveal blind spots I had not previously noticed."
+        },
+        {
+          "type": "paragraph",
+          "text": "For that reason, I organized multiple optional mathematics and mechanics review sessions in my department. The Engineering Mathematics and core mechanics notes I accumulated over time gradually developed from private study materials into resources for peer discussion. This was not one-way instruction: I first arranged definitions, assumptions, and derivation steps into a clear path, then revised the explanation in real time as classmates' questions exposed missing steps. Working together until the unclear parts become understandable is my idea of an ideal learning community."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我很常用教學來複習。為了回答同學的問題，必須把自己腦中的概念重新拆開、排序，再找出最清楚的推進方式；而同學提出的疑問，也會快速暴露原本沒有注意到的盲點。"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此，我在系上多次舉辦自由參加的數學與力學複習活動。平時累積的工程數學與核心力學筆記，也逐漸從私人整理變成可供同儕討論的材料。這不是單向講解：我先把定義、假設與推導節點排成清楚路徑，再根據同學的提問即時改寫說法、補上被略過的步驟。一起把不懂的地方說清楚，正是我心目中理想的學習共同體。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-027",
+    "route": "/experience/chien-kuo-science-club-teaching",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Understanding a problem oneself and enabling another person to follow the reasoning are two different tasks. Two in-school classes and one inter-school class required me to reconsider where a problem was genuinely difficult, which steps could be generalized, and how content, pace, and student level should be coordinated with other instructors. I gradually understood that complete knowledge does not automatically become clear communication; good teaching requires design, communication, and attention to the audience."
+        },
+        {
+          "type": "paragraph",
+          "text": "This experience later extended into the online club exhibition, peer-review sessions at NTU, and science camps. It also shaped my view of teaching: the purpose is not to prove how much I know, but to help another person engage with a problem and find a path along which they can continue thinking."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "自己理解一道題，和讓另一個人跟上思路，是兩件不同的事。兩次校內授課與一次跨校聯課，要求我重新思考題目真正困難的地方、哪些步驟可以被一般化，也必須和其他教學者對齊內容、節奏與學生程度。我逐漸明白，完整理解並不會自動變成清楚表達；好的教學需要溝通、設計與對聽眾的觀察。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗後來延伸到線上社展、臺大的同儕複習與科學營，也逐漸形成我對教學的看法：不是證明自己知道多少，而是幫助對方走進問題、找到能繼續思考的路。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-028",
+    "route": "/experience/qingshui-science-outreach",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "A science camp differs from competition teaching. Students may not begin with an interest in the subject, so the first step is not to increase difficulty but to connect the question with something students can observe firsthand. I contributed to lesson preparation and activity delivery. An existing physics handout began with friction and an “interleaved books” demonstration, turning abstract mechanics into a phenomenon students could try with their own hands and feel directly. On site, I also learned to adjust explanations in response to students' reactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This service helped me understand early that science outreach is not about reducing complex content to slogans. It is about finding another entry point without losing the central concept."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "科學營和競賽教學不同。學生未必已經對題目有興趣，因此教學的第一步不是增加難度，而是讓問題與眼前經驗產生連結。我參與課程準備與活動執行；營隊物理講義以摩擦力與「交疊書本」為切入點，把抽象力學轉成學生可以親手嘗試、直接感受的現象。我也在現場學習依學生反應調整說明方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段服務讓我更早理解，科學推廣的價值不是把複雜內容簡化成口號，而是在不失去核心概念的前提下，找到另一種入口。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-029",
+    "route": "/experience/zhongshan-primary-science-camp",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "For elementary students in a mathematics and science gifted class, teaching cannot consist merely of compressing high-school knowledge into simpler words. It must preserve exploration while ensuring that every activity can be completed safely and within the available time. I contributed to lesson preparation and on-site facilitation, practicing how to explain abstract concepts through more intuitive language."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together with the experiences at Qingshui and Ren'ai junior high schools, this activity formed the principal science-service trajectory of my high-school years: translating the mathematical and scientific resources I had received into learning experiences that other students could explore for themselves."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "面對國小數資班學生，內容不能只是把高中知識往下壓縮。教學需要保留探索感，也要讓每個活動都能在安全與時間限制下完成。我在營隊中參與課程準備與現場帶領，練習用更直觀的語言說明抽象概念。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這項活動與清水國中、仁愛國中的經驗共同構成高中時期的科學服務主線：把自己得到的數理資源，轉化成其他學生也能參與的學習經驗。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-030",
+    "route": "/experience/renai-junior-high-science-camp",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The Ren'ai Junior High School science camp, formally titled “2020 Science Blueprint: Joint Chien Kuo–Taipei First Girls Gifted-Class Camp,” was one of two service camps organized by my gifted class. Students from both schools prepared lessons, original handouts, experiments, gifted-program discussions, and a practice examination. I contributed to mathematics-material design and lesson preparation in number theory and geometry."
+        },
+        {
+          "type": "paragraph",
+          "text": "Compared with a one-way lecture, the camp placed greater emphasis on active student participation, questions, and collaboration. It also required staff to adjust continually among teaching, order, and time. My objective was not to display difficult formulas, but to help students discover that mathematics can begin with observation and thought."
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience shows that teaching and service have been longstanding commitments, beginning in high school and continuing through university."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "仁愛國中的科學營正式名稱為「2020 科學藍圖 建北數資營」，是我高中參與的兩次數資班服務科學營之一。營隊由建中與北一女數資班學生共同準備課程、自編講義、實驗、數資生活分享與模擬考；我參與數論與幾何等數學教材的設計與教學準備。"
+        },
+        {
+          "type": "paragraph",
+          "text": "相較於單向講授，營隊更重視學生實際參與、提問與合作，也要求工作人員在教學、秩序與時間之間持續調整。我的目標不是展示艱深公式，而是讓學生發現，數學可以從觀察與思考開始。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗也說明，教學與服務並非短期活動，而是從高中延續至大學的長期投入。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-031",
+    "route": "/experience/gouzikou-after-school-tutoring",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Students of different ages came to the church after school to study and complete homework. As an NTU student, I helped provide academic support so that someone was available when they encountered a question."
+        },
+        {
+          "type": "paragraph",
+          "text": "This kind of teaching differs from a final-exam review session. The students' levels, attention, and needs varied widely, so I could not explain everything through the method most familiar to me. I first needed to understand where the student was stuck, then break the problem into steps through which that person could move forward. The experience showed me that giving knowledge back to society does not always take the form of a large program. Sometimes it means being willing to sit down after school and help one student understand the homework in front of them."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "教會裡有不同年齡的學生，放學後在那裡讀書與完成課後作業。身為臺大學生，我參與輔導，讓學生在遇到問題時有人可以詢問。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這種教學和期末複習不同。學生的程度、注意力與需求差異很大，不能只用自己最熟悉的方式講解。我需要先理解對方卡住的地方，再把問題拆成他能前進的步驟。這段經驗讓我看見，知識回饋社會有時不是大型計畫，而是願意在放學後坐下來，陪一個學生把眼前的作業弄懂。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-032",
+    "route": "/experience/ntu-bicycle-service-week",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Many members of the NTU community commute by bicycle, so the need for maintenance is immediate and practical. Before taking part in Bicycle Service Week, I trained in the department workshop on braking systems, brake cables, saddles, and basic safety inspection. I then joined other Mechanical Engineering students in operating a free repair station outside the department building."
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience taught me something simple but important: engineering service is not about displaying complicated technology; it is about resolving a problem safely. When a student can ride away with confidence, professional skill has fulfilled its most direct purpose."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "臺大校園有大量師生以腳踏車通勤，維修需求很實際。參與鐵馬週時，我先到實習工廠學習煞車系統、煞車線、坐墊與基本安全檢查，再和其他機械系學生於系館前設置免費維修站。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗讓我學到一些樸實但重要的事：工程服務不是展示複雜技術，而是把問題安全地修好。當一位同學能安心把腳踏車騎走，專業便完成了它最直接的價值。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-033",
+    "route": "/experience/international-student-document-support",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "During my third year, I volunteered to support an international student whose case was considerably more complex than ordinary arrival orientation. Although the student had received an admission offer from a university in Taiwan, constraints surrounding prior academic records prevented routine verification and delayed the required entry process."
+        },
+        {
+          "type": "paragraph",
+          "text": "We held multiple online meetings in English. I helped clarify the document problem, organized the information already available, and contacted relevant university and public-service channels to ask about possible paths forward. No single call or message could resolve the situation. Progress required repeated synthesis of new information, careful follow-up, and revision of the working plan. After the student completed the required procedures through authorized channels, the entry documentation was ultimately issued."
+        },
+        {
+          "type": "paragraph",
+          "text": "The official decision was made by the responsible authorities. My role was to help the student clarify the problem, organize the available information, and follow up through the appropriate channels. The experience required patience, empathy, and respect for institutional processes."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "大三參與國際生志工時，我接到的個案遠比一般入學適應複雜。學生已取得臺灣一所大學的錄取資格，卻因先前學歷文件受到限制，無法依一般程序完成驗證，所需的入境程序也因此長期停滯。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我與對方以英文進行多次線上會議，協助釐清文件問題、整理現有資訊，並向相關校務與公共服務窗口詢問可能路徑。過程中沒有單一電話或一封信能直接解決問題，只能持續整合新資訊、追蹤回覆並修正工作方案。經由具權責的正式管道完成必要程序後，入境文件最終獲得核發。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我不能把簽證核發歸功於自己；真正重要的是，我曾在一段漫長且充滿不確定的過程中，陪對方把問題一項一項往前推。這件事讓我學到，跨文化協助需要的不只是英文，更需要耐心、同理與對制度細節的尊重。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-034",
+    "route": "/experience/international-student-campus-support",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Completing the entry process was only the first step. Unfamiliar registration rules, living arrangements, campus systems, and student culture created a new set of barriers after arrival. I continued accompanying the student through the transition, explaining course-selection principles, practical information, and campus conventions, and helping address problems that arose during the initial period."
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience reminded me that meaningful support rarely has a perfectly defined endpoint. Solving a problem is not merely completing an administrative task; it also means helping another person gain enough understanding and confidence to become increasingly independent in a new environment."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "完成入境程序只是第一步。抵達之後，陌生的選課規則、生活安排、校園系統與學生文化仍會形成新的門檻。我持續陪伴這位新生度過轉換期，說明選課原則、實用資訊與校園習慣，也協助處理落地初期遇到的各種問題。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗提醒我，真正的支持通常沒有清楚的終點。問題解決不只是完成一個行政任務，而是確保對方能夠在新的環境裡逐漸獨立。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-035",
+    "route": "/experience/cross-cultural-taiwan-exchange",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "From formal support to mutual exchange"
+        },
+        {
+          "type": "paragraph",
+          "text": "After the international student arrived in Taiwan, support that began with administrative and campus-adjustment questions gradually extended to everyday life, local culture, and travel. The experience was not a one-way introduction to Taiwan. It became a mutual process of learning how different cultures approach daily life, communication, and adaptation, and the volunteer relationship grew into a genuine friendship."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Understanding and adapting across cultures"
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience taught me to understand another person's situation before breaking complex information into practical next steps. Reliable support is more than answering a question once; it depends on patient responses, consistent follow-through, and a willingness to adapt how I communicate across cultural differences."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "從協助新生，到彼此交流"
+        },
+        {
+          "type": "paragraph",
+          "text": "國際新生抵臺後，我繼續協助選課、住宿、校園系統與生活適應，並在跨文化交流中分享臺灣生活。這段陪伴也逐漸成為生活化的跨文化友誼，讓彼此能在日常相處中理解不同文化的生活方式與溝通習慣。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "跨文化支持中的理解與調整"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗讓我更重視先理解對方的處境，再把複雜資訊拆成可採取的下一步。可靠的支持不只是一次性回答問題，也來自耐心回應、持續跟進，以及在文化差異中調整溝通方式。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-036",
+    "route": "/experience/chien-kuo-overseas-program-planning",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The overseas learning program was originally intended to bring students from the Mathematics and Science Gifted Class to visit schools abroad. As lead coordinator, I met regularly with the school, organized information and classmates' feedback before each meeting, coordinated needs during the meeting, and brought decisions back to the class afterward. I served as the communication bridge between students and the school."
+        },
+        {
+          "type": "paragraph",
+          "text": "The program was ultimately canceled because of the pandemic: preparation was completed, but no overseas travel occurred. This experience clarified leadership for me for the first time. Leadership is not the ability to guarantee that external conditions will always follow a plan. It is the ability to keep information moving through uncertainty, ensure that the team understands the next step, and explain changes responsibly."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "海外學習原本希望帶領數理資優班同學參訪國外學校。身為籌備總召，我時常和校方開會，會前整理資料與同學回饋，會中協調需求，會後再把決議帶回班上，擔任學生與學校之間的溝通橋樑。"
+        },
+        {
+          "type": "paragraph",
+          "text": "活動最後因疫情取消：籌備工作已完成，但沒有實際出國。這段經驗讓我第一次明確感受到，領導不是保證外部條件永遠照計畫發生，而是在不確定中讓資訊持續流動、讓團隊知道下一步，也願意對變化作出負責任的說明。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-037",
+    "route": "/experience/chien-kuo-research-presentation-lead",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The independent research symposium was both an academic event and a large project. Beyond two years of independent research by the students, it included a short film, music, publicity, and a complete program. Every participant had individual ideas and responsibilities. As chief organizer, I could not rely on a title to demand compliance. I first needed to understand the disagreement, identify the shared goal, protect team relationships and each member's interests, and turn alternatives into a decision that everyone was willing to carry together."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the most difficult tasks was dividing the two-day program into sufficiently detailed time blocks so that every staff member understood the exact responsibility at each moment. I repeatedly discussed and revised details with the school and my classmates. The proposal was reorganized twice. When a major change occurred, three deputy coordinators and I worked until 2:00 a.m. to convert the physical event into recorded presentations. Although the in-person symposium was cancelled, the team completed the plan, resolved scheduling conflicts, and produced the alternative presentation format. The experience taught me to distinguish an event’s final format from the team’s responsibility to complete its work."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "研究成果發表會同時是學術活動與大型專案。除了同學兩年的獨立研究，還包含成發短片、歌曲、宣傳與完整議程。每個人都有自己的想法與責任；身為總召，我不能只用職位要求服從，而要先聽懂分歧，找到共同目標，兼顧團隊關係與每位成員的權益，再把選擇變成大家願意共同承擔的決定。"
+        },
+        {
+          "type": "paragraph",
+          "text": "最困難的工作之一，是把兩天流程切成足夠細的時段，讓每位工作人員都清楚各時段的任務。我反覆與學校及同學討論並調整細節；企劃書重整兩次，遇到重大變動時，也和三位總副召工作到凌晨兩點，把實體活動改為錄影發表。雖然實體活動最終取消，團隊仍完成計畫、協調衝突，並如期完成替代成果；這段經驗也讓我學會區分活動形式與團隊對工作的責任。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-038",
+    "route": "/experience/ntu-civil-engineering-camp",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "A group counselor may appear simply to lead activities, but the role actually requires simultaneous attention to the schedule, emotions, safety, and team dynamics. Every participant responds differently to an unfamiliar environment, so no single style of guidance works for everyone."
+        },
+        {
+          "type": "paragraph",
+          "text": "This experience gave me practice in observation and communication beyond the classroom. It also continued the central thread connecting my high-school science camps and university teaching: enabling younger students to encounter engineering and university life in an environment where they feel safe and willing to ask questions."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "隊輔的工作看似是帶活動，實際上需要同時注意行程、情緒、安全與團隊互動。每位參與者對陌生環境的反應不同，帶領方式也不能只有一套。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗讓我在課堂之外練習觀察與溝通，也延續了高中科學營與大學教學的主線：讓年紀較小的學生在一個安全、願意提問的環境中認識工程與大學生活。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-039",
+    "route": "/experience/ntu-mechanical-orientation-staff",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The visible result of an orientation camp appears during several days of activities, but it rests on a much longer period of planning, rehearsal, logistics, venue preparation, and response to unexpected situations. As a staff member, I completed my assigned responsibilities and learned to remain dependable under time pressure and within a large team."
+        },
+        {
+          "type": "paragraph",
+          "text": "The role reinforced a practical team ethic: understand the assignment, deliver on time, and support others when additional help is needed."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "宿營的成果往往呈現在幾天活動裡，但背後是更長時間的籌備、排練、物資、場地與臨時狀況處理。身為工作人員，我在團隊中完成所屬任務，也學習在時間壓力與多人協作下保持可靠。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗讓我建立一項基本而重要的團隊習慣：了解自己的責任、準時完成工作，也在他人需要時主動補位。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-040",
+    "route": "/experience/ntu-chien-kuo-beiyi-week",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I have retained a strong connection with my high-school student community. Participating in Chien Kuo–Taipei First Girls Week after entering university was not only a way to look back on high-school life. It also meant planning an event, dividing work, and executing it on site with students from different university departments in a new environment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience required careful time management and follow-through alongside coursework, research, and other responsibilities."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我對高中學生社群一直有感情。進入大學後參與建北週，不只是回顧高中生活，也是在新的環境裡與不同科系同學共同規劃活動、分配工作與完成現場執行。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在課業、研究與其他責任並行的情況下，我仍按時完成對團隊承諾的工作；這段經驗也進一步訓練我的時間管理與責任感。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-041",
+    "route": "/experience/ef-tokyo-study-abroad",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Putting language into everyday life in Tokyo"
+        },
+        {
+          "type": "paragraph",
+          "text": "The EF summer program in Tokyo combined Japanese-language study with independent living. I had to navigate an unfamiliar city, make practical day-to-day decisions, and adapt how I understood and expressed myself in a different linguistic and cultural setting."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What I took from the experience"
+        },
+        {
+          "type": "paragraph",
+          "text": "It was my first extended experience living independently in a different linguistic and cultural setting. It gave me a more practical understanding of studying abroad. This was an experience in daily adaptation and cultural learning, not evidence of formal language certification."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "在東京，把語言放進日常生活"
+        },
+        {
+          "type": "paragraph",
+          "text": "EF 東京暑期遊學讓我同時練習日文，也體驗在陌生城市中獨立生活。我需要安排每天的交通與生活大小事，並在不同語言與文化中調整自己的理解與表達方式。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "這段遊學帶給我的改變"
+        },
+        {
+          "type": "paragraph",
+          "text": "日本遊學讓我第一次長時間在不同語言與文化中獨立生活，也讓我更具體地理解海外學習與生活的樣貌。這段經歷著重於獨立生活、文化與語言適應，不代表任何語言能力認證。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-042",
+    "route": "/experience/ntu-mechanical-baseball-team",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I have been a baseball fan since childhood, supporting Team Taiwan, the CTBC Brothers, and the New York Yankees. Although I enjoyed sports before university, I had few opportunities to play baseball in a formal setting. After entering university, I finally joined the departmental team and began learning technique, rules, tactics, and structured team practice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Participating directly made it even clearer that baseball is not an individual performance. Pitchers, fielders, hitters, coaches, the bench, and support staff form a single system in which every person must trust the other positions. This view of teamwork also affects the way I approach engineering projects. When a system fails, I do not rush to blame one module; I work with the team to understand how the interfaces interact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baseball also gives me an important rhythm. Research and learning may continue for long periods without visible reward, while baseball reminds me to return to the next pitch after failure. If passion is to endure, it must become discipline."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我從小就是棒球迷，支持中華隊、中信兄弟與紐約洋基。高中以前雖然喜歡運動，卻沒有太多正式打棒球的機會；進入大學後，我終於加入系棒，開始學習動作、規則、戰術與球隊訓練。"
+        },
+        {
+          "type": "paragraph",
+          "text": "實際參與後，我更清楚知道棒球不是個人表演。投手、野手、打者、教練、板凳與後勤共同構成一個系統，每個人都必須信任其他位置。這種團隊觀念也影響我面對工程專案：系統失敗時，不急著把問題推給單一模組，而是一起理解介面如何作用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "棒球也讓我保有一種很重要的節奏。研究與學習可能長時間沒有明顯回報，而棒球提醒我：失敗之後仍要回到下一球，熱血若要走得長久，必須變成紀律。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-043",
+    "route": "/experience/ntu-civil-night-vocalist",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Singing has been a long-standing interest of mine. Civil Engineering Night moved that interest beyond singing alone into the collaborative process of rehearsing with musicians, listening to one another, and completing a performance together."
+        },
+        {
+          "type": "paragraph",
+          "text": "The few minutes visible on stage were built on many rehearsals marked by uneven entries, forgotten lyrics, mismatched rhythms, and renewed coordination. In that respect, the experience resembles an engineering project: the final result may appear smooth, but its quality comes from the team's willingness to revise details repeatedly."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "唱歌是我長期的興趣。土木之夜讓我從個人喜歡唱歌，走到需要和樂手排練、聽見彼此、共同完成演出的團隊工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "舞台上的幾分鐘，建立在許多次不整齊、忘詞、節奏不一致與重新磨合上。它和工程專案有一點相似：最終成果看似流暢，但真正的品質來自團隊願意反覆修正細節。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-044",
+    "route": "/experience/premier12-2024-fan-memory",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sharing Team Taiwan's championship moment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taiwan's 2024 Premier12 championship is a collective memory that I value deeply as a fan. It brought people together around Team Taiwan and became an especially meaningful part of my lifelong relationship with baseball."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How baseball brings people together"
+        },
+        {
+          "type": "paragraph",
+          "text": "Team Taiwan in international competition has shown me how one sport can bring an entire society together. This memory is part of my longstanding support for Team Taiwan, the CTBC Brothers, and the New York Yankees, and it preserves a genuine, enduring passion alongside my academic and research work."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "與中華隊共同經歷的冠軍時刻"
+        },
+        {
+          "type": "paragraph",
+          "text": "2024 Premier12 臺灣奪冠，是我身為球迷十分珍惜的一段集體記憶。許多人共同關注中華隊、投入比賽並分享喜悅，這也成為我長期棒球記憶中格外重要的一頁。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "棒球如何把人連在一起"
+        },
+        {
+          "type": "paragraph",
+          "text": "國際賽裡的中華隊讓我感受到，一項運動如何凝聚整個社會。這段回憶也連結著我長期支持中華隊、中信兄弟與紐約洋基的球迷歷程。棒球為長期密集的求學生涯留下熱血與節奏，也讓我理解團隊、逆境與「下一球」的意義。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-045",
+    "route": "/experience/baseball-fandom",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Baseball is an important source of energy in my life. Team Taiwan in international competition shows me how one sport can bring an entire society together. The CTBC Brothers and New York Yankees have shown me across long seasons that no genuine team can depend on one star alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love baseball not only for comebacks and victories, but also for the way it handles failure. A hitter fails to reach base most of the time. A pitcher will miss a location, and a fielder may make an error. The game still requires everyone to return to the next play. That spirit of continuing to adjust within imperfection closely resembles the way I approach research, coursework, and engineering debugging."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "棒球是我靈魂裡很重要的燃料。國際賽裡的中華隊讓我感受到一項運動如何凝聚整個社會；中信兄弟與紐約洋基則讓我在漫長賽季裡理解，真正的團隊不可能只靠某一位明星。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我喜歡棒球，不只因為逆轉與勝利，而是它對失敗的處理方式。打者大多數時候都不會上壘，投手一定會失投，守備也可能發生錯誤；比賽仍要求每個人回到下一個 play。這種在不完美中持續調整的精神，和我面對研究、課業與工程除錯的方式很接近。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-047",
+    "route": "/writing/software",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "I use GitHub to maintain public code, documentation, and reproducible examples for research and engineering projects. Each repository explains the problem, my contribution, installation procedure, results, limitations, and license so that the work can be understood and reproduced."
+        },
+        {
+          "type": "paragraph",
+          "text": "The GitHub profile link is available in the verified contact card."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我以 GitHub 維護研究與工程專案的公開程式、文件與可重現範例。每個儲存庫均說明問題、我的貢獻、安裝方式、結果、限制與授權，方便他人理解並重現相關工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "GitHub 個人頁面連結收錄於受邀聯絡名片。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-048",
+    "route": "/experience/rongshu-cup-2019-2020",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "What attracts me to competition mathematics is not only the answer, but the need to identify structure, recognize viable directions, and organize scattered observations into reasoning that can be checked under time constraints. During high school, I participated in the Rongshu Cup with peers for two consecutive years, and our work received Honorable Mention both times."
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of returning to the competition was the opportunity to return to a similar—but never identical—problem-solving environment, continue adjusting my own pace, and learn to articulate ideas and understand another person's starting point in team discussion. Together with the Chien Kuo mathematics competitions, APMOC/APMO/TMO selection and qualification, and TRML, these experiences form the broader context of my high-school mathematical training."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "競賽數學吸引我的地方，不只是答案本身，而是必須在有限時間內找出結構、辨識可行方向，並把零散觀察整理成能被檢查的推理。高中期間，我連續兩年與同儕參加榕數盃，兩屆皆獲佳作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "連續參與的價值，在於我能回到相似但不重複的問題環境中，持續調整自己的解題節奏，也學會在團隊討論中把想法說清楚、理解他人的切入點。它與建中能力競賽、APMOC／APMO／TMO 選訓及 TRML 一起，構成我高中數學訓練的完整脈絡。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-049",
+    "route": "/experience/gifted-mathematics-camp-2020",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "My interest in mathematics has never stopped at the boundary of an examination syllabus. Participating in the gifted mathematics camp in 2020 placed me in a concentrated and more challenging learning environment beyond school courses and competitions, where I could also exchange problem-solving approaches with other students who enjoyed mathematics."
+        },
+        {
+          "type": "paragraph",
+          "text": "The camp reinforced a pattern that had already begun: I continued seeking advanced training and willingly devoted time outside class to understanding mathematics. That curiosity-driven approach later carried into my mathematics minor and sustained work in Numerical Analysis, Introduction to Mathematical Analysis, and Engineering Mathematics."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我對數學的興趣從來不只停在考試範圍。2020 年參與資優數學研習營，讓我在校內課程與競賽之外，接觸更集中、更具挑戰性的數學學習環境，也和同樣喜歡數學的學生交流解題方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這次研習延續了我主動尋找進階訓練、投入課外時間理解數學的習慣。由好奇心驅動的學習方式，後來也延伸到數學輔系，以及數值分析、分析導論與工程數學的長期訓練。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-050",
+    "route": "/experience/amc-10a-2020",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The AMC 10A emphasizes solving a diverse set of non-routine mathematical problems within a limited time. In 2020, I earned a score of 97.5 and ranked in the 92nd percentile (PR 92), and received an Excellent rating. In contrast with school performance alone, the result provides an external reference with a clearly stated score and percentile rank."
+        },
+        {
+          "type": "paragraph",
+          "text": "What matters more to me is the working method developed through this kind of training: identifying the central structure of a problem quickly, comparing the cost of different methods, and maintaining complete reasoning under time pressure. These habits later carried into engineering analysis, numerical methods, and system debugging."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "AMC 10A 強調在有限時間內處理多樣化、非例行的數學問題。2020 年我取得 97.5 分、PR 92，成績評定為 Excellent。相較於只呈現校內表現，這項紀錄提供了一個具明確分數與百分等級的外部參照。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我更重視的仍是這類訓練所建立的工作方式：快速辨識題目的核心結構、比較不同方法的成本，並在時間壓力下維持推理的完整性。這些習慣後來也延伸到工程分析、數值方法與系統除錯。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-051",
+    "route": "/experience/apx-2021",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "At the fourth APX National High School Mathematics and Science Proficiency Test, I met the Bronze Award standard in upper-intermediate mathematics and the passing standard in advanced mathematics. The two results record more than performance on one assessment; they also reflect a learning habit of continuing to challenge material beyond my existing level."
+        },
+        {
+          "type": "paragraph",
+          "text": "This training is consistent with my later decision to pursue a minor in mathematics. I did not want only to become fluent in tools that could be applied directly; I also wanted to advance toward more abstract and rigorous content. The upper-intermediate Bronze Award and advanced-level passing result are two distinct outcomes, and together they record a habit of deliberately increasing the difficulty of my work and subjecting my ability to external evaluation."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "在第四屆 APX 全國高中數理能力檢定中，我於數學中高級達到銅牌獎標準，並於數學高級達到合格標準。這兩項結果不只記錄一次測驗表現，也反映我在既有程度之外，持續挑戰更高層級內容的學習方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段訓練與我後來選擇數學輔系的方向十分一致：我不只想熟練可以直接套用的工具，也希望持續走向更抽象、更嚴謹的內容。中高級銅牌與高級合格是兩項明確成果，也共同記錄了我主動提高難度、讓能力接受外部檢驗的學習習慣。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-052",
+    "route": "/experience/tmt8-2018",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "My interest in mathematics began in the upper elementary grades and gradually developed into self-directed learning and competition experience during junior high school. The “Outstanding” result on TMT8 marks a clear point in that growth. I became willing to leave familiar problem types, work through unfamiliar questions under time constraints, and commit more clearly to a long-term direction in mathematics and science."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "我對數學的興趣在小學高年級萌芽，進入國中後逐漸轉為主動自學與競賽探索。TMT8 的「傑出」是這段成長中的一個明確節點：我開始願意離開熟悉題型，在時間限制下處理陌生問題，也更確定自己想長期走向數理領域。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-053",
+    "route": "/experience/national-math-olympiad-grade-9",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Unlike routine calculation using a fixed procedure, competition mathematics requires the solver to see the structure of a problem before selecting a useful perspective. Receiving third prize in the National Olympiad Mathematics Competition during junior high school confirmed that what I genuinely enjoyed was not the score alone, but the process of making an unfamiliar problem gradually understandable. This early training later extended into geometric covering research, team competitions, and the way I now approach engineering models and control problems."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "相較於依固定程序計算，競賽數學要求先看見問題的結構，再選擇能推進的觀點。國中時獲得全國數學奧林匹克競賽三等獎，使我更確定自己真正喜歡的不是分數本身，而是把陌生問題逐步想通的過程。這份早期訓練後來延伸到幾何覆蓋研究、團隊競賽，以及今日處理工程模型與控制問題的方式。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-054",
+    "route": "/experience/jhmc",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "JHMC produced both a team result and an individual result, and its meaning to me extends beyond placement. It introduced me during junior high school to the rhythm of collaborative problem solving: each person brings different observations and strengths, and an effective team does not ask everyone to do the same thing—it enables different methods to complement one another. This early experience later extended into two consecutive years as TRML team captain, collaborative research, and interdisciplinary engineering projects."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "JHMC 同時留下團體與個人兩項成果，對我的意義不只在名次。它讓我在國中階段便接觸到多人共同解題的節奏：每個人有不同觀察與強項，真正有效的團隊不是所有人做同一件事，而是能讓不同方法彼此補足。這段早期經驗後來延伸到連續兩年擔任 TRML 隊長，以及後續的團隊研究與跨領域工程專案。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-055",
+    "route": "/experience/mathleague-2016",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The percentile gives this experience a clear external basis for comparison, but its most important role is to document this stage of my growth. Before entering the Chien Kuo High School Mathematics and Science Gifted Class, I was already seeking mathematics beyond the curriculum and accumulating experience with unfamiliar problems, time management, and strategy revision through different forms of competition."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "百分位讓這項經歷有清楚的外部比較基準，但它最重要的作用仍是補足成長軌跡：在進入建中數理資優班之前，我已經持續主動接觸課本以外的數學，也在不同形式的競賽中累積面對陌生題目、管理時間與修正策略的經驗。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-056",
+    "route": "/experience/tamc7-2016",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "This result marks an early point in a sustained pattern of seeking problems beyond the curriculum and developing strategies for unfamiliar questions, time management, and method checking before I entered Chien Kuo High School."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這項成績記錄我在進入建中以前，已長期主動接觸課本以外的題目，也逐步養成面對陌生問題、分配時間與檢查解法的習慣。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-057",
+    "route": "/experience/class-discipline-officer",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Learning reliability through everyday responsibility"
+        },
+        {
+          "type": "paragraph",
+          "text": "Serving as discipline officer during my first year at Chien Kuo was a quiet but concrete form of class service. The role required attention to deadlines, consistent follow-through, and care for the routine tasks that sustain a shared learning environment."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Everyday responsibility and teamwork"
+        },
+        {
+          "type": "paragraph",
+          "text": "The experience taught me that collaboration is visible not only in major decisions, but also in consistently completing the routine work a group depends on. Reliability, punctuality, and a willingness to take responsibility became important foundations for my later work in camps, projects, and teams."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "從班級日常學習承擔責任"
+        },
+        {
+          "type": "paragraph",
+          "text": "建中高一擔任風紀股長，是一項不張揚但具體的班級服務。這個職務要求我留意各項期限、按時完成固定工作，並把每天的小事穩定做好。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "日常責任與團隊合作"
+        },
+        {
+          "type": "paragraph",
+          "text": "這段經驗讓我理解，合作不只體現在重大決策，也包括持續完成團體日常所需的工作。穩定、準時與願意承擔，是後來參與營隊、專案與團隊合作的重要基礎。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-058",
+    "route": "/writing/teaching/taylor-series-video",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A 25-minute, 18-second online lesson on Taylor series"
+        },
+        {
+          "type": "paragraph",
+          "text": "For an online high-school science club exhibition, I recorded a 25-minute, 18-second lesson explaining Taylor expansions. I decomposed the abstract formula into motivation, approximation, derivation, and use cases, creating a path that other students could follow."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "From solving a problem to sustaining an explanation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The project required clear mathematical communication, on-camera presentation, and video production. It also records an early attempt to deliver a sustained mathematical explanation on camera. Its value lies not only in the formula, but also in reorganizing the idea so that another reader or viewer can engage with the problem."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "25 分 18 秒的泰勒展開式線上教學"
+        },
+        {
+          "type": "paragraph",
+          "text": "高中科研社線上社展中，我以 25 分 18 秒影片完整講解泰勒展開式，從動機、近似與推導一路說明至應用情境；這也是我早期以長篇影音形式進行數學教學的作品。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "從會解題，到把問題說清楚"
+        },
+        {
+          "type": "paragraph",
+          "text": "製作這支影片需要同時兼顧數學轉譯、鏡頭表達與影音製作。它的價值不只在公式本身，也在於如何重新組織概念，讓其他學生能循序理解。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-059",
+    "route": "/writing/mathematical-popular-writing-2021",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Set theory | From countability to Cantor's diagonal argument"
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2021, I wrote mathematics outreach pieces introducing sets, bijections, countability and uncountability, and Cantor's diagonal argument. I wanted the abstract ideas to retain their rigor while giving high-school readers an intuitive path toward notation and argument."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Complex numbers and functions | Beyond Euler's formula"
+        },
+        {
+          "type": "paragraph",
+          "text": "Another piece in the series begins with Euler's formula and extends to complex exponentials and logarithms, the Lambert W function, and hyperbolic functions. The series records an early desire not merely to perform calculations, but to organize relationships among ideas into a path another reader could follow."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "集合論｜從可數到 Cantor 對角線"
+        },
+        {
+          "type": "paragraph",
+          "text": "2021 年撰寫數學科普內容，介紹集合、對射、可數／不可數與 Cantor 對角線論證，兼顧概念的嚴謹性，也為高中讀者提供直觀的理解途徑。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "複數與函數｜從 Euler 公式走向更遠"
+        },
+        {
+          "type": "paragraph",
+          "text": "同系列內容由 Euler 公式延伸到複數指數與對數、Lambert W 與雙曲函數。它代表我很早就不滿足於只會算題，而想整理概念之間的關係，讓其他讀者能循序理解。"
+        }
+      ]
+    }
+  },
+  {
+    "eventId": "event-060",
+    "route": "/experience/central-emergency-operations-center-visit",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connecting civil engineering to public systems"
+        },
+        {
+          "type": "paragraph",
+          "text": "A visit to the Central Emergency Operations Center gave me a more concrete view of how civil engineering supports disaster response, infrastructure resilience, cross-agency coordination, and public responsibility. An engineering system must not only function under routine conditions; it must also support an effective societal response under pressure."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Perspective gained from the visit"
+        },
+        {
+          "type": "paragraph",
+          "text": "This was not professional practice, but it broadened my engineering perspective. Infrastructure raises questions of scale, safety, resilience, and the consequences of failure, while disaster response shows why technical judgment must be understandable and actionable across institutions."
+        }
+      ],
+      "zh": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "從防災體系理解土木工程的公共責任"
+        },
+        {
+          "type": "paragraph",
+          "text": "參訪中央災害應變中心，讓我更具體地看見土木工程如何連結防災、基礎建設韌性、跨單位協調與公共責任。工程系統的價值不只在平時是否運作順利，也在災害等高壓情境下，能否支撐社會有效應變。"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "這次參訪帶來的視角"
+        },
+        {
+          "type": "paragraph",
+          "text": "這次參訪並不是專業實務經歷，卻拓展了我的工程視野。基礎建設牽涉規模、安全、韌性與失效後果；防災工作也提醒我，技術判斷必須能被不同單位理解，並在公共責任的框架下落實。"
+        }
+      ]
+    }
+  }
+]

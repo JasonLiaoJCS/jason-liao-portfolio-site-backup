@@ -1,0 +1,519 @@
+[
+  {
+    "courseworkId": "coursework-001",
+    "route": "/academics/intermediate-dynamics",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "What interests me most about Intermediate Dynamics is that an apparently simple rotational problem often involves coordinate systems, inertia, coupling terms, and stability at the same time. The first part of this individual study examines coupled rotation between an outer rigid body and an internal sphere separated by a viscous oil film. I began with angular-momentum balance to derive a six-dimensional system of equations, then nondimensionalized the model and linearized it about equilibrium, converting the question into an eigenvalue and stability analysis. Numerically, I compared the evolution of angular velocity, total angular momentum, and kinetic energy near the three principal inertia axes with and without dissipation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second part extends the analysis to a rotating disk with an eccentric mass and two balancing balls. I established the nonlinear equations of motion, tracked the disk-center trajectory, amplitude, and relative motion of the balancing balls, and used long-time integration to determine whether transient behavior decayed, persisted, or became unstable. At ω=0.8, the late-time radial amplitude was approximately 3.54×10⁻⁴ and max|β̇| approximately 1.13×10⁻³. At ω=1.2, the mean radius shifted from 1.4674 to 4.1461, the amplitude increased to 0.259, and max|β̇| reached 0.221. The contrast makes a fundamental distinction clear: the existence of an equilibrium does not imply that the equilibrium is stable. The code was used not merely to generate figures, but to check conservation laws, limiting behavior, and consistency with analytical predictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project required me to translate a coupled physical system into a computable model, trace the effect of each assumption, and use numerical experiments where closed-form analysis was insufficient. The final submission received an A+, and the complete derivations record each step of the analysis."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "中等動力學最吸引我的地方，是一個看似簡單的旋轉問題，往往同時牽涉座標系、慣量、耦合項與穩定性。這份個人成果的第一部分處理外層剛體與內部球體之間具有黏滯油膜的耦合旋轉。我先從角動量平衡建立六維運動方程，再進行無因次化與平衡點線性化，將問題轉成特徵值與穩定性判別；數值部分則比較有、無耗散時，三個主慣量軸附近的角速度、總角動量與動能演化。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第二部分把分析延伸到具有偏心質量與兩顆平衡球的旋轉圓盤。我建立非線性運動方程，追蹤圓盤中心軌跡、振幅與平衡球相對運動，並以長時間積分檢查暫態現象究竟會衰減、持續或失穩。ω=0.8 時，後期半徑振幅僅約 3.54×10⁻⁴、max|β̇| 約 1.13×10⁻³；ω=1.2 時，平均半徑由 1.4674 移至 4.1461，振幅增至 0.259、max|β̇| 0.221。這個對照清楚顯示「存在平衡」不等於「平衡穩定」。程式不是只用來產生圖，而是用來檢查守恆量、極限行為與解析判斷是否一致。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這門課取得 A+；完整推導則記錄我如何將複雜物理系統整理成可計算模型、釐清各項假設的影響，並在解析方法不足時以數值實驗繼續檢驗問題。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-002",
+    "route": "/academics/numerical-analysis",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The midterm project is organized around one question: when should a numerical answer be trusted? I compared Newton interpolation on equally spaced nodes, Chebyshev nodes, and cubic splines, using maximum error and RMSE to examine endpoint oscillation, the Runge phenomenon, and the influence of boundary conditions. In the Fourier / FFT work, I quantified truncation, spectral leakage, and aliasing separately, then verified nonlinear spectral calculations through zero-padding de-aliasing. I also compared forward and central differences, as well as bisection and Newton–Raphson, in terms of actual error, observed convergence order, iteration count, and residual."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final project connects linear algebra, differential equations, and finite elements. It covers least squares and the pseudo-inverse, finite-difference and shooting methods for boundary-value problems, and a Q4 finite-element implementation for a two-dimensional elastic cantilever beam. Beginning with the element stiffness matrix, Gauss integration, global sparse-matrix assembly, and boundary conditions, I checked the symmetric positive-definite structure of the free-degree-of-freedom matrix, compared sparse Cholesky with preconditioned conjugate gradient, and used five meshes to verify that displacement self-convergence approached second order. First-order stress / strain convergence is discussed theoretically and is not presented as an experimentally completed stress-convergence study."
+        },
+        {
+          "type": "paragraph",
+          "text": "Representative quantitative results include a maximum difference of 6.38×10⁻¹⁶ between FFT and direct computation; at n=25 and n=33, maximum errors from Chebyshev nodes were approximately 541× and 692× lower than those from equally spaced nodes; at N=641, the central-difference error was 5.74×10⁻⁶, approximately 643× lower than the forward-difference error. The Q4 FEM model expanded from 42 to 6,402 DOF, matrix density decreased by approximately 99.1%, residuals remained between 10⁻¹³ and 10⁻¹², and the finest-mesh displacement differed from the analytical value by 1.19%."
+        },
+        {
+          "type": "paragraph",
+          "text": "These two projects capture my problem-solving habit particularly well: I do not treat “the program produced a number” as completion. I first define the error and success criteria, choose an analytical solution, numerical reference, or finest mesh for comparison, and then cross-check the result through figures, tables, residuals, and convergence rates. When behavior differs from expectation, I trace the issue through node distribution, condition number, boundary conditions, discretization, and finite precision rather than adjusting parameters until the plot merely looks plausible."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "期中專題以「數值答案何時值得相信」為主軸。我比較等距節點 Newton 插值、Chebyshev 節點與 cubic spline，使用最大誤差與 RMSE 觀察端點振盪、Runge 現象與邊界條件的影響；在 Fourier／FFT 題目中，則把 truncation、spectral leakage 與 aliasing 分開量化，並以 zero-padding de-aliasing 驗證非線性頻譜計算。另以 forward／central difference 與 bisection／Newton–Raphson 比較實際誤差、收斂階數、迭代次數與殘差。"
+        },
+        {
+          "type": "paragraph",
+          "text": "期末專題進一步連結線性代數、微分方程與有限元素。內容包含最小平方法與 pseudo-inverse、邊界值問題的 finite difference 與 shooting method，以及二維彈性懸臂梁的 Q4 finite element implementation。我從元素剛性矩陣、Gauss integration、全域稀疏矩陣組裝與邊界條件開始，檢查自由度矩陣的 symmetric positive definite 結構，比較 sparse Cholesky 與 preconditioned conjugate gradient，並用五組網格實際驗證位移 self-convergence 接近二階。應力／應變一階收斂只作理論討論，不寫成已完成的 stress-convergence 實驗。"
+        },
+        {
+          "type": "paragraph",
+          "text": "代表量化結果包括：FFT 與直接計算最大差 6.38×10⁻¹⁶；n=25／33 時 Chebyshev nodes 的最大誤差分別比等距節點低約 541×／692×；N=641 的 central difference 誤差為 5.74×10⁻⁶，約比 forward difference 低 643×；Q4 FEM 由 42 擴展至 6,402 DOF，矩陣密度約下降 99.1%，殘差維持 10⁻¹³–10⁻¹²，最細網格位移與解析值相差 1.19%。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在兩份專題中，我不把「程式跑出數字」視為完成：先定義誤差與成功標準，以解析解、參考數值解或最細網格作為對照，再用圖表、殘差與收斂階交叉檢查。結果不符預期時，則回到節點分布、條件數、邊界條件、離散化與有限精度逐層排查。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-003",
+    "route": "/academics/coursework/practice-of-mechanical-engineering",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The real difficulty of this project was not assembling parts into a drone. It was making flight, landing, ground retrieval, communication, recovery, and ball placement work reliably as one system. Early on, we compared launching, climbing, bridging, lighter-than-air, and quadrotor concepts, then rejected unsuitable options based on site adaptability, fault tolerance, fabrication time, and cost. When direct airborne grasping proved too sensitive to downwash and positioning accuracy, the team did not continue tuning the same concept indefinitely. We reframed the problem into a modular architecture: the mothership crosses the height difference, while the sub-vehicle retrieves the ball on the ground."
+        },
+        {
+          "type": "paragraph",
+          "text": "My work focused on connecting the subsystems. I contributed to component selection and thrust-to-weight evaluation, flight-controller configuration, electromechanical assembly, communication, and integration testing. I also chaired multiple team meetings, converting failures, hypotheses, tests, and next actions into traceable decisions. The report documents several corrections from symptom to root cause: motor damage traced to overlong screws; low-altitude oscillation addressed by testing six propeller types; altitude control moved from Betaflight to INAV, reducing Z-axis RMSE from 8.66 cm to 1.35 cm; and an ESP-NOW architecture redesign reduced packet volume by approximately 80% and improved latency from 1–2 seconds to nearly real time."
+        },
+        {
+          "type": "paragraph",
+          "text": "We also built and compared one-ball and three-ball sub-vehicles. The three-ball configuration reduced mean total time from 67.9 seconds to 56.8 seconds, approximately 16% faster, but it also increased variance in ground operations, flight oscillation, and operational risk. The team ultimately returned to the one-ball configuration, established preflight, landing, retrieval, recovery, and failure-recovery SOPs, and prepared a backup airframe. The decision reflected the team’s engineering priorities: speed was not the only criterion; reliability, repeatability, and recoverability must be considered together."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這個專案真正困難的地方，不是把零件裝成一台無人機，而是讓飛行、降落、地面取球、通訊、回收與放球在同一套系統中可靠銜接。前期我們比較射球、攀爬、架橋、熱氣球與四旋翼，並以場地適應性、容錯率、製作時間與成本淘汰不合適方案。當空中直接夾球受下洗流與定位精度限制時，團隊沒有繼續硬調，而是重新定義問題，改成「母機負責跨越高度，子車負責在地面取球」的模組化架構。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我的工作集中在把不同子系統接起來：參與零組件與推重比評估、飛控設定、機電組裝、通訊與整合測試，也多次主持團隊會議，把故障、假設、測試與下一步整理成可追蹤決策。報告記錄了多項從現象到根因的修正：馬達損壞追到螺絲過長；低空抖動透過六種槳型測試重新選型；高度控制由 Betaflight 轉至 INAV 後，Z 軸 RMSE 由 8.66 cm 降至 1.35 cm；ESP-NOW 架構重構後，封包量降低約 80%，延遲由 1–2 秒改善至近乎即時。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們也製作並比較單球與三球子車。三球方案平均總時間由 67.9 秒縮至 56.8 秒，快約 16%，但地面作業變異、飛行震盪與操作風險明顯增加。團隊最後回到單球方案，建立起飛前檢查、降落、取球、回收與失敗復原 SOP，並準備備用機。這項決策反映團隊的工程取捨：速度並非唯一指標，可靠性、可重複性與故障後恢復能力同樣重要。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-004",
+    "route": "/academics/coursework/computer-programming-in-python",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The focus of this project was not to insert an existing algorithm into a game, but to define the environment clearly first. The team organized the map, collisions, items, exits, visibility, and enemy rules into the game layer, then designed the action space, observation space, and action masks so that agents received only available information and avoided invalid actions. PPO / MAPPO self-play operated above this layer, while the GUI, Replay system, and TensorBoard helped us determine whether training had actually produced a strategy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Training progressed through four stages. Early agents wandered because of sparse rewards, so the team introduced more directional dense rewards. We then found that the player could exploit rule loopholes or fixed patterns, leading us to add physical constraints, anti-cheating design, and an opponent pool. As the player learned to use items, evade pursuit, and reach the exit, the enemy improved at the same time. The result was an approximately even 50/50 win rate rather than one side overwhelming the other."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project required the team to decompose complex behavior into observable states and explicit interfaces, build diagnostic tools, and evaluate changes through behavior, training curves, and match outcomes. It also provided early experience with reward hacking, data logging, and reproducible experiments that later informed my RedRHex research."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這項專題的重點不是把既有演算法套進遊戲，而是先把環境定義清楚。團隊將地圖、碰撞、道具、出口、視野與敵人規則整理成遊戲層，再設計 action space、observation space 與 action mask，使 agent 只接收可用資訊並避免無效動作；上層以 PPO／MAPPO 進行 self-play，並透過 GUI、Replay 與 TensorBoard 觀察訓練是否真的學到策略。"
+        },
+        {
+          "type": "paragraph",
+          "text": "訓練過程分成四個階段。早期 agent 會因 sparse reward 在地圖中亂走，團隊加入更有方向性的 dense reward；之後又發現玩家可能利用規則漏洞或固定模式取巧，因此加入物理限制、反作弊設計與 opponent pool。當玩家逐漸學會利用道具、避開追捕並抵達出口後，敵人也同步提升，最終形成約 50／50 勝率的平衡，而不是單方面碾壓。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這項專題採取系統化的程式設計方法：將複雜行為拆為可觀察狀態與明確介面，建立診斷工具，再以行為、訓練曲線與對戰結果評估修改。專題也讓我提早接觸 reward hacking、資料記錄與實驗可重現性，並成為後續 RedRHex 強化學習研究的前導經驗。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-005",
+    "route": "/academics/coursework/physical-model-design-laboratory",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The project began with a three-dimensional physical track that genuinely had to guide a moving ball. The team first completed the plant-inspired geometry and physical construction, then recorded the ball from the XY, XZ, and YZ views and used video analysis to obtain position and velocity. We next built predictions with Python and a mechanics model, checking whether the experimental and simulated curves agreed across different track segments."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was responsible for the theoretical calculations. The presentation preserves my derivations of force, energy, and curvature for a ball moving along the path, including the condition under which it may lose contact and derail. The role required more than obtaining formulas: definitions, symbols, and assumptions had to be usable by teammates responsible for programming, video analysis, and presentation. A calculation that cannot connect to an actual measurement has little value to a team."
+        },
+        {
+          "type": "paragraph",
+          "text": "The experimental and simulated results did not overlap perfectly, which created an important space for engineering judgment. Image-point selection, track geometry, friction, rotational inertia, and initial conditions could all contribute to the difference. The most valuable lesson of this course was to treat a model as a tool that a physical system can refute and improve. It also showed me, through a clear division of labor, that theory, computation, and experiment must remain mutually consistent."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這項專題從一條真正會讓球運動的三維軌道開始。團隊先完成植物意象的幾何設計與實體搭建，再分別由 XY、XZ、YZ 視角記錄球體運動，透過影片分析取得位置與速度；接著以 Python 程式和力學模型建立預測，檢查不同軌道段的實驗曲線與模擬是否一致。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我在分工中負責 `calculating`。簡報保留了我對球體沿曲線運動的受力、能量與曲率推導，也討論球體何時可能失去接觸而脫軌。這個角色要求我不只算出公式，還要讓定義、符號與假設能被負責程式、影片分析與簡報的組員正確使用；計算若無法接到實際量測，就不具備團隊價值。"
+        },
+        {
+          "type": "paragraph",
+          "text": "實驗與模擬並未完全重合；影像取點、軌道幾何、摩擦、轉動慣量與初始條件都可能是誤差來源。這門課讓我學會把模型視為可由實驗檢驗與修正的工具，也在明確分工中確認理論、程式與實驗必須彼此一致。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-006",
+    "route": "/academics/coursework/engineering-graphics",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Engineering Graphics was the first course in which I systematically converted a three-dimensional idea in my head into engineering information that another person could inspect, assemble, and discuss. For the final project, each student had to model multiple LEGO-style parts under a shared specification and complete an assembly of at least 30 parts, a full-assembly engineering drawing, and an exploded-view animation. I chose a sports-car theme and designed the body, chassis, wheels, cabin, and exterior details within standardized unit dimensions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The challenge was not simply to make the result “look like a car.” Every part still had to follow rules for thickness, studs, underside cylinders, and integer-multiple dimensions, while the complete assembly required reasonable connections and proportions. I iterated through Inventor’s part, assembly, and constraint workflows so that the appearance, assembly, and output requirements could all be satisfied simultaneously, then completed the engineering drawing and an animation that clearly communicated the assembly sequence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although this A+ result came from a foundational course, it established the shared language required for later mechanical design, complex assembly, robot CAD assets, and system integration: dimensions must be precise, interfaces must be explicit, and drawings must allow another person to understand and continue the work."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "工程圖學是我第一次系統性把腦中的三維構想，轉成他人可以檢查、裝配與溝通的工程資訊。期末專題要求每位學生依統一規格建立多種樂高零件，完成至少 30 件零件的組合、總組合工程圖與爆炸動畫；我的作品選擇以跑車為主題，在標準單元尺寸下設計車身、底盤、輪組、座艙與外觀細節。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這項作品除了呈現完整車體造型，也必須符合零件厚度、凸點、底部圓柱與整數倍尺寸等規則。透過 Inventor 的零件、組合與約束流程反覆調整後，我完成工程圖，以及可呈現組裝順序的動畫。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這門取得 A+ 的基礎課程，建立了後續機械設計、複雜組立、機器人 CAD 模型與系統整合所需的共同語言：尺寸必須精確、介面必須明確，圖面也須讓他人能理解並接續使用。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-007",
+    "route": "/academics/engineering-mathematics",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Engineering Mathematics is not a collection of formulas to be forgotten after an examination. For me, it is the common language of mechanics, control, fluids, numerical methods, and robotics. I studied Engineering Mathematics in both the Civil and Mechanical Engineering sequences, deliberately revisiting the same ideas through different instructors, notation, and application contexts. All 9 core calculus and Engineering Mathematics courses, totaling 20 credits, were completed at A+."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beyond the course results, I completed omitted derivations, connected assumptions and methods across chapters, and organized examples, visual explanations, and physical interpretations in more than 1,600 pages of notes. Review sessions and peer discussion provided an additional check: if I could not explain a method clearly or answer follow-up questions, I treated it as not yet fully understood."
+        },
+        {
+          "type": "paragraph",
+          "text": "I later applied this foundation to convergence and finite-element work in Numerical Analysis, state-space and stability analysis in LKAS, dynamics and control in RedRHex, and later fluids and structures coursework. Representative notes and project applications show how this mathematical foundation carried into subsequent research and engineering work."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "工程數學是理解力學、控制、流體、數值方法與機器人的共同語言。我同時修讀土木與機械體系的工程數學課程，從不同教師、符號與應用脈絡重新理解相同觀念；九門微積分與工程數學核心課程共 20 學分全數取得 A+。"
+        },
+        {
+          "type": "paragraph",
+          "text": "除了成績，我也補全課堂略過的推導，重新連結不同章節的假設與方法，並持續整理例題、圖像與物理意義；工程數學筆記因此累積超過 1,600 頁。我也透過複習會與同儕討論檢查自己的理解，確認能清楚說明方法並回答追問。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這套數學基礎後來應用於數值分析的收斂與有限元素、LKAS 的狀態空間與穩定性、RedRHex 的動力學與控制，以及流體與結構課程；代表筆記與實際案例呈現這些知識如何延續至後續研究與工程實作。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-008",
+    "route": "/academics/coursework/introduction-to-mathematical-analysis-i",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Engineering courses often require a sufficiently good, workable model under time constraints. Mathematical analysis forces me to return to definitions and ask exactly which conditions support each step of an argument. Introduction to Mathematical Analysis (I) trained me to work with quantifiers, limits, and rigorous proofs for familiar calculus concepts, and to distinguish intuitions that can be formalized from conclusions that quietly depend on unstated assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The course changed how I read theory, write derivations, and inspect arguments, particularly in later work on controller stability, numerical convergence, and reinforcement-learning evaluation. I now begin by asking what success means, under which conditions a conclusion applies, and where a counterexample might appear."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "工程課程常要求在有限時間內建立足夠好、可以工作的模型；數學分析則逼迫我回到定義，問清楚每一步推論的條件。修讀分析導論一，使我練習用量詞、極限與嚴謹證明處理原本熟悉的微積分概念，也更能辨認哪些直覺可以被形式化，哪些結論其實偷偷使用了尚未說明的假設。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這種訓練對研究很重要。當我處理控制器穩定性、數值收斂或強化學習評估時，會更自然地追問：成功標準是什麼、適用條件在哪裡、反例可能出現在哪裡？分析導論的價值不在大型作品，而在於它改變了我閱讀理論、撰寫推導與檢查論證的方式。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-009",
+    "route": "/academics/coursework/vehicle-dynamics-and-control",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "This project did not send a pixel offset from the camera directly to the motor. It began by establishing a lateral vehicle-dynamics model. I participated in the state-space derivation from the linearized bicycle model and steering angle to lateral and heading errors, followed by stability analysis in a Lyapunov / LaSalle framework and verification in Simulink. To address both steady-state offset and external disturbance, the team combined PI control with Sliding Mode Control into PI-SMC: the integral term removes long-term error, the sliding-mode term preserves robustness to model mismatch and disturbance, and a boundary layer reduces visible chattering. The existing derivation does not claim a rigorous proof of global asymptotic stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The physical implementation used a Raspberry Pi 5, an onboard camera, and OpenCV. The pipeline included BEV calibration, adaptive thresholding, contour filtering, left- and right-lane candidate selection, polynomial fitting, and centerline estimation before sending lateral and heading errors to the real-time steering controller. The course report states that, with an initial lateral velocity of 2 m/s, the lateral-error peak was approximately 2.4 cm and the response entered ±1 mm within 4.5 seconds. The abstract additionally reports a mean lateral error of 6.2 mm on an S-shaped path, steering oscillation below 0.8°, and visual processing below 40 ms. Because the latter three figures are not accompanied here by raw logs and a complete test table, they are reported from the course documentation and have not been independently verified."
+        },
+        {
+          "type": "paragraph",
+          "text": "I began with an interpretable model and explicit success metrics, then compared control strategies. Anticipated steady-state error under pure SMC motivated a theoretically grounded change to PI-SMC, which the team then tested under the constraints of low-cost hardware, camera noise, and real-time delay."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這個專案沒有把攝影機看到的像素偏差直接丟給馬達，而是先建立車輛橫向動力學。我參與從 linearized Bicycle Model、轉向角到橫向與航向誤差的狀態空間推導，並以 Lyapunov／LaSalle 框架進行穩定性分析，再透過 Simulink 驗證。為同時處理穩態偏差與外部擾動，團隊將 PI 與 Sliding Mode Control 組合成 PI-SMC：積分項消除長期偏差，滑模項保留對模型落差與擾動的穩健性，並以 boundary layer 降低可見 chattering。目前推導尚未涵蓋嚴格的全域漸近穩定性證明。"
+        },
+        {
+          "type": "paragraph",
+          "text": "實作端使用 Raspberry Pi 5、車載相機與 OpenCV，依序完成 BEV 校正、adaptive threshold、contour filtering、左右車道候選、polynomial fitting 與 centerline estimation，再將橫向與航向誤差送入即時轉向控制。課程報告記載：在 2 m/s 初始橫向速度情境中，橫向誤差峰值約 2.4 cm，4.5 秒內進入 ±1 mm；摘要另記載實車 S 型路徑平均橫向誤差 6.2 mm、轉向震盪低於 0.8°、視覺處理低於 40 ms。後三項尚缺原始紀錄與完整測試表，因此目前僅依課程報告列示，未作獨立驗證。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我先建立可解釋的模型與成功指標，再比較控制策略。純 SMC 可能留下穩態偏差，因此團隊以理論為依據加入 PI，形成 PI-SMC，並在低成本硬體、相機噪聲與即時延遲等條件下測試。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-010",
+    "route": "/academics/coursework/fluid-mechanics",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "Fluid Mechanics extends the mathematics and mechanics I know into a world that is harder to observe directly yet deeply connected to real engineering. The Civil Engineering context often emphasizes large-scale flow, pressure, and engineering safety; the Mechanical Engineering context connects more directly to internal flows, viscosity, boundary layers, energy conversion, and electromechanical systems. Studying the subject in both departments allowed me to re-examine the same equations and assumptions from different problem perspectives."
+        },
+        {
+          "type": "paragraph",
+          "text": "I earned A+ in both foundational Fluid Mechanics courses and continued into Fluid Mechanics II to deepen the subject rather than stop at the introductory sequence. The coursework also informed Aero Carrier’s analysis of rotor downwash, ground effect, and flight stability."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "流體力學把我熟悉的數學與力學推向一個更難直接觀察、卻又高度貼近真實工程的世界。土木脈絡常關心大尺度流動、壓力與工程安全；機械脈絡則更直接連向管流、黏性、邊界層、能量轉換與機電系統。跨兩個系所修課，使我能從不同問題意識重新檢查同一套方程與假設。"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩門基礎流體力學皆取得 A+，並進一步修讀流體力學（二），持續深化守恆律、壓力、黏性與流動機制等主題。這些訓練也應用於 Aero Carrier 的旋翼下洗、地面效應與飛行穩定性分析。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-011",
+    "route": "/academics/coursework/computer-aided-engineering-drawing",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The most difficult part of this project began after “everyone’s mechanism worked.” The red, green, and blue modules used a cam, a gravity track, and a scoop-based lifting mechanism. Each worked well in its own assembly file, but integration exposed mismatched heights, envelope violations, failed constraints, jammed parts, and incompatible input motions."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was responsible for the gray master assembly and drive system. To make one external rotational input drive multiple motions, I designed gear coupling, a vertical slider, and linkages that respectively supplied continuous cam rotation, reciprocating scoop motion, and vertical elevator travel. I remeasured bearing positions, slider stroke, linkage length, and limit positions, then adjusted dimensions and interfaces across the other modules so that the marble could transfer smoothly between mechanisms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Animation introduced another failure mode. The assembly could be driven in the standard environment, yet Inventor Studio could not compute the animation because of latent constraint conflicts. After discussing the issue with the teaching assistant, I expanded, inspected, and corrected the problematic constraints one by one. I then manually configured each segment’s marble coordinates, timing, input angles, and contact nodes to complete a smooth end-to-end animation. This exemplifies systems debugging: identify the environment in which the failure appears, narrow the conflict, and eliminate causes systematically instead of repeatedly reopening the software and hoping for a different result."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這個專題最困難的部分發生在「每個人的機構都能動」之後。紅、綠、藍三個模組分別使用凸輪、重力滑道與勺型爬升機構，各自在獨立組合檔中運作良好；一旦合併，卻出現高度不一致、尺寸超界、約束失效、零件卡死與輸入形式不同等整合問題。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我負責灰色總組合與動力系統。為了讓一個外部旋轉輸入同時驅動不同運動，我設計齒輪連動、垂直滑塊與連桿，分別提供凸輪連續旋轉、勺型機構往復擺動與升降電梯的上下運動；並重新量測軸承位置、滑塊行程、連桿長度與極限位置，調整其他模組尺寸與介面，使彈珠能在不同機構之間順利交接。"
+        },
+        {
+          "type": "paragraph",
+          "text": "動畫階段又出現新的問題：一般組合環境可以驅動，進入 Inventor Studio 後卻因潛在約束衝突而無法計算。我與助教討論後，逐一展開、檢查並修正所有不良約束，再手動設定每段小球的座標、時間、輸入角度與接觸節點，才完成流暢的全流程動畫。這是典型的系統除錯：先確認問題只在哪個環境出現，再縮小衝突範圍，逐項排除，而不是反覆重開軟體碰運氣。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-012",
+    "route": "/academics/linear-algebra-fft",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The Fourier transform is important in engineering, but the linear-algebra structure behind it is what makes it practical for large datasets and real-time systems. This individual project first treats a discrete signal as a vector and interprets the DFT as a change of coordinates into a complex-exponential basis. It then uses the periodicity and symmetry of roots of unity, together with even and odd indexing, to factor dense matrix multiplication into reusable subproblems and sparse butterfly operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "I did more than organize formulas. I compared the computational complexity of direct DFT and FFT and used signal spectra, noise filtering, and image compression to explain the engineering meaning of the method. The discussion also preserves its limitations: a fixed hard threshold is not suitable for every noise process; FFT is a global transform, so image compression may create uniform blur; and at large scales and high dimensions, the bottleneck may shift from arithmetic count to memory bandwidth and cache behavior."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project connected abstract structure, computational cost, implementation, and method selection across numerical analysis, control, signal processing, and robotics."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "傅立葉轉換對工程很重要，但真正讓它能進入大量資料與即時系統的，是背後的線性代數結構。這份個人專題先把離散訊號視為向量，將 DFT 解釋為在複指數基底下的座標轉換；再利用 roots of unity 的週期性、對稱性與偶奇索引，把密集矩陣乘法分解成可重複使用的子問題與稀疏 butterfly 運算。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我不只整理公式，也比較直接 DFT 與 FFT 的計算複雜度，並以訊號頻譜、雜訊濾除與影像壓縮說明方法的工程意義。討論段落也保留限制：固定硬閾值不適合所有噪聲，FFT 是全域轉換，影像壓縮可能造成一致性模糊；在大規模高維資料上，瓶頸也可能從運算量轉向記憶體頻寬與快取。"
+        },
+        {
+          "type": "paragraph",
+          "text": "這項專題先掌握 FFT 的抽象結構，再分析其如何降低計算成本、如何實作，以及何時需要改用其他方法；同時也說明線性代數如何支撐數值分析、控制、訊號處理與機器人研究。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-013",
+    "route": "/academics/mechanical-laboratory-ii",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The experiment began with an integrated question: how fast a wind-powered vehicle can ultimately travel depends simultaneously on rolling resistance, sail aerodynamics, angle of attack, payload, and wind speed. The team separated the problem into three stages. We first used an 8° incline to measure rolling resistance under different vehicle loads, then fixed the vehicle and measured lift and thrust at different sail angles, and finally constructed a dynamic-motion and terminal-speed model so that each parameter could be examined independently."
+        },
+        {
+          "type": "paragraph",
+          "text": "The measured rolling-resistance coefficients across three loads ranged from approximately 0.020 to 0.088, within a practical range for small hard wheels. Sail testing indicated a more favorable lift-to-drag region near 60°–75°. More importantly, we did not treat every computed value as truth. The mean-acceleration method was overly sensitive to timing and position noise and even produced a physically impossible “negative resistance” in the heavy-vehicle case. The team therefore shifted to an energy method and explicitly proposed improvements including an electronic inclinometer, photogates, high-speed imaging, v²–x regression, and flow conditioning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because the available setup could not create a long, uniform wind field, the moving vehicle left the effective region before reaching terminal speed. The test did not cover the terminal-speed regime, so we retained the theoretical model, stated the limitation, and identified the equipment required for the next experiment. This honest treatment of anomalies and limitations is, to me, one of the most important elements of professional experimental work."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這份實驗從一個整合問題開始：風帆車最後能跑多快，同時受到滾動阻力、帆面氣動力、攻角、載重與風速影響。團隊將問題拆成三個階段：先以 8° 斜坡量測不同載重車輛的滾動阻力，再固定車體量測不同帆角的升力與推力，最後建立動態行駛與終端速度模型，讓每個參數都能先被獨立檢查。"
+        },
+        {
+          "type": "paragraph",
+          "text": "實驗得到三種載重下約 0.020–0.088 的滾動阻力係數，落在硬質小輪的實用範圍；風帆測試顯示 60°–75° 附近具有較佳升阻比。更重要的是，我們沒有把所有算出的數字都當成真相：平均加速度法對時間與位置噪聲過度敏感，甚至在重車案例產生「負阻力」這種物理上不合理的結果。團隊因此改用能量法，並明確提出電子傾角計、光電門、高速攝影、v²–x 回歸與流場整流等改進方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "受限於現場無法建立長距離均勻風場，動態車輛在到達終端速度前已離開有效風區。由於測試尚未完整涵蓋終端速度區段，報告保留理論模型、說明現有量測限制，並列出下一輪實驗所需設備。這種對異常與限制的誠實處理，正是我認為專業實驗能力最重要的部分。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-014",
+    "route": "/academics/coursework/machine-design-theory",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The project required the system to retrieve a ball from a low platform and deliver it to a higher one under limits on time, stowed dimensions, and contact rules, with all operations driven only by rotational input. The team drew on polar-coordinate positioning from tower cranes, passive guidance from table-tennis-ball collectors, and gravity transport from inclined tracks, recombining mature mechanism principles into a purpose-built system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Within the four-person team, I was responsible for mechanism implementation, calculations, and report data, with a formally documented contribution of 25%. Gears, racks, bevel gears, and drums converted the rotational input into radial, vertical, and rotary motion. The Z-axis used a ratchet-and-pawl self-locking mechanism to prevent gravitational backdrive; the R-axis distributed load across multiple parallel gears; and the base and column balanced stability with foldable storage."
+        },
+        {
+          "type": "paragraph",
+          "text": "The analysis went beyond nominal strength values. We estimated speeds, forces, and torques for the gears, shafts, ratchet, baseplate, and hinges, then checked factors of safety under the worst-case load. Experiments used measurable displacement to infer equivalent loading. Measured stresses were generally lower than the theoretical maxima, with differences of approximately 18%–33%, indicating a conservative but reasonable safety margin. Repeated deployment, folding, and operation produced no major structural failure, providing a physical test of both the analysis and the mechanism's reliability."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "專題要求系統在限定時間、收納尺寸與接觸規則下，從低平台取得球體並送往高平台，而且所有操作只能使用旋轉輸入。團隊借鑑塔式起重機的極座標定位、桌球撿球器的被動導引，以及斜坡滑道的重力輸送，將成熟機構原理重新組合成專用系統。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我在四人團隊中負責機構實作、計算與報告數據，正式分工比例為 25%。系統以齒輪、齒條、傘齒輪與捲筒將旋轉輸入轉換成徑向、升降與回轉運動；Z 軸加入棘輪—棘爪自鎖以避免重力回落，R 軸以多齒輪並聯分攤負載，底座與立柱則兼顧穩定與摺疊收納。"
+        },
+        {
+          "type": "paragraph",
+          "text": "分析不只列出名義強度。我們針對齒輪、軸、棘輪、底板與鉸鏈建立速度、力與力矩估算，在最不利載重下檢查安全係數；實驗再以可量測位移反推等效載入，實測應力普遍低於理論最大值，差異約 18%–33%，顯示設計具有偏保守但合理的安全裕度。多次展開、收折與操作後未發生重大結構失效，也讓分析與可靠度接受實體檢驗。"
+        }
+      ]
+    }
+  },
+  {
+    "courseworkId": "coursework-015",
+    "route": "/academics/coursework/additive-manufacturing",
+    "sourceStatus": "canonical_markdown",
+    "blocks": {
+      "en": [
+        {
+          "type": "paragraph",
+          "text": "The challenge required the vehicle to travel after being released from a ramp without further contact. Every part had to be suitable for FDM printing, fit within an 80 mm cube, and include manufacturing features such as overhangs, holes, and a printed driver. The team organized the performance objective around two central questions: how to reduce energy loss between the axle and frame, and how to absorb the landing impact at the end of the ramp without bouncing or yawing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first version used the simplest possible frame to test how contact area and axle diameter affected friction. The second introduced an integrated spring, but inappropriate rib thickness and effective length made it too stiff to absorb meaningful impact. Later versions lengthened the spring, reduced its cross-section, and adjusted wheel diameter, producing visible compression on landing and improving directional stability and travel distance. The exterior drew on the wide body, large wheels, and low center of gravity of the Tumbler, while localized hollowing controlled wheel inertia."
+        },
+        {
+          "type": "paragraph",
+          "text": "For manufacturing, we compared monolithic printing with separate-part assembly. To balance circularity and low friction, the axle was ultimately separated into its own part. We used a 0.1 mm layer height and a “slow exterior, fast interior” speed strategy to balance surface quality with fabrication time. The measured rear-wheel diameter was 23.8 mm compared with a 24 mm CAD value, a deviation of approximately −0.8%; the measured 2.4 mm square connector matched the design value. This work connected design, material compliance, tolerance, and print parameters within one iterative process."
+        }
+      ],
+      "zh": [
+        {
+          "type": "paragraph",
+          "text": "這項挑戰要求車輛自斜坡釋放後不再接觸，所有零件都必須適合 FDM 列印、可在 80 mm 立方體內組裝，並包含懸空、孔洞與列印駕駛員等製造特徵。團隊將性能目標整理成兩個核心問題：如何降低輪軸與車架之間的能量損失，以及如何吸收坡道末端落地衝擊，避免跳動與偏航。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第一版用最簡車架驗證接觸面與軸徑對摩擦的影響；第二版加入一體式彈簧，但因肋厚與有效長度不合適，剛性過高、幾乎無法吸震。後續版本拉長彈簧、減薄截面並調整輪徑，讓落地時出現可觀察壓縮，方向穩定性與滑行距離隨之改善；外觀則參考 Tumbler 的寬體、大輪徑與低重心，同時以局部挖空控制車輪慣量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "製程方面，我們比較一體成形與分件組裝，最後為兼顧真圓度與低摩擦，將車軸改為分件；採 0.1 mm 層高與「外慢內快」速度配置，在表面品質與製作時間間取得平衡。實測後輪外徑 23.8 mm，相對 CAD 24 mm 的偏差約 −0.8%；2.4 mm 方形連接處量測與設計值一致。這份成果把設計、材料彈性、公差與列印參數連成同一個迭代流程。"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,7 @@
+# Preserve released binary media byte-for-byte across platforms.
+*.pdf binary
+*.avif binary
+*.webp binary
+*.jpg binary
+*.jpeg binary
+*.png binary

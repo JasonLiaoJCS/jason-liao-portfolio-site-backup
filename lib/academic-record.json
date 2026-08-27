@@ -1,0 +1,62 @@
+{
+  "updatedThrough": {
+    "en": "Through Spring 2026",
+    "zh": "截至 2026 年春季"
+  },
+  "earnedCredits": 163,
+  "gradedCredits": 156,
+  "gradedRecords": 67,
+  "overall": {
+    "value430": "4.13 / 4.30",
+    "value400": "3.92 / 4.00",
+    "records": 67,
+    "credits": 156
+  },
+  "mechanicalMajor": {
+    "value430": "4.19 / 4.30",
+    "value400": "3.96 / 4.00",
+    "records": 41,
+    "credits": 99
+  },
+  "mechanicalRequired": {
+    "value430": "4.21 / 4.30",
+    "value400": "3.98 / 4.00",
+    "records": 30,
+    "credits": 70
+  },
+  "mechanicalRelevantTechnical": {
+    "value430": "4.19 / 4.30",
+    "value400": "3.95 / 4.00",
+    "records": 50,
+    "credits": 120
+  },
+  "mechanicalPrefix": {
+    "value430": "4.17 / 4.30",
+    "value400": "3.95 / 4.00",
+    "records": 30,
+    "credits": 76
+  },
+  "engineeringTechnical": {
+    "value430": "4.17 / 4.30",
+    "value400": "3.95 / 4.00",
+    "records": 55,
+    "credits": 130
+  },
+  "mechanicalMajorExcludingResearch": {
+    "value430": "4.20 / 4.30",
+    "value400": "3.96 / 4.00",
+    "records": 39,
+    "credits": 95
+  },
+  "aPlus": {
+    "records": 46,
+    "credits": 110,
+    "creditShare": "70.5%"
+  },
+  "aOrAboveCredits": 138,
+  "core": {
+    "value430": "4.30 / 4.30",
+    "records": 20,
+    "credits": 50
+  }
+}

@@ -1,0 +1,1399 @@
+{
+  "updatedThrough": {
+    "en": "Through Spring 2026",
+    "zh": "截至 2026 年春季"
+  },
+  "titleTranslationStatus": {
+    "en": "English course titles are descriptive translations for readability; Chinese titles follow the source academic record.",
+    "zh": "英文課名為便於閱讀的描述性翻譯；中文課名依學業紀錄呈現。"
+  },
+  "counts": {
+    "totalStatusRecords": 78,
+    "enrolledRecords": 76,
+    "gradedRecords": 67,
+    "gradedCredits": 156,
+    "passRecords": 5,
+    "passCredits": 7,
+    "withdrawnRecords": 4,
+    "withdrawnCredits": 12,
+    "exemptRecords": 2,
+    "earnedCredits": 163,
+    "aPlusRecords": 46,
+    "aPlusCredits": 110
+  },
+  "domains": {
+    "mathematics": {
+      "en": "Mathematics & analytical foundations",
+      "zh": "數學與解析基礎"
+    },
+    "mechanics": {
+      "en": "Mechanics & dynamics",
+      "zh": "力學與動力學"
+    },
+    "computation": {
+      "en": "Computation, control & electronics",
+      "zh": "計算、控制與電子"
+    },
+    "thermal": {
+      "en": "Thermal-fluid sciences & energy",
+      "zh": "熱流、能源與傳輸"
+    },
+    "design": {
+      "en": "Design, manufacturing & experiments",
+      "zh": "設計、製造與實驗"
+    },
+    "civil": {
+      "en": "Civil engineering foundations",
+      "zh": "土木工程基礎"
+    },
+    "science": {
+      "en": "Physical & chemical sciences",
+      "zh": "物理與化學基礎"
+    },
+    "research": {
+      "en": "Research training",
+      "zh": "研究訓練"
+    },
+    "humanities": {
+      "en": "Languages, humanities & social inquiry",
+      "zh": "語言、人文與社會思辨"
+    },
+    "team": {
+      "en": "Team practice & physical education",
+      "zh": "團隊實踐與體育"
+    },
+    "service": {
+      "en": "Service & academic orientation",
+      "zh": "服務與學習導入"
+    }
+  },
+  "capabilityHighlights": [
+    {
+      "id": "mathematics",
+      "value": "4.30 / 4.30",
+      "records": 9,
+      "credits": 20,
+      "title": {
+        "en": "Calculus & engineering mathematics",
+        "zh": "微積分與工程數學"
+      },
+      "detail": {
+        "en": "Every graded record at A+",
+        "zh": "所有計分修課全數 A+"
+      }
+    },
+    {
+      "id": "mechanics",
+      "value": "4.30 / 4.30",
+      "records": 7,
+      "credits": 18,
+      "title": {
+        "en": "Core mechanics & dynamics",
+        "zh": "核心力學與動力學"
+      },
+      "detail": {
+        "en": "Every graded record at A+",
+        "zh": "所有計分修課全數 A+"
+      }
+    },
+    {
+      "id": "computation",
+      "value": "4.30 / 4.30",
+      "records": 4,
+      "credits": 12,
+      "title": {
+        "en": "Programming, linear algebra & numerical methods",
+        "zh": "程式、線性代數與數值方法"
+      },
+      "detail": {
+        "en": "Every graded record at A+",
+        "zh": "所有計分修課全數 A+"
+      }
+    },
+    {
+      "id": "control",
+      "value": "4.22 / 4.30",
+      "records": 4,
+      "credits": 12,
+      "title": {
+        "en": "Controls & mechatronics",
+        "zh": "控制與機電整合"
+      },
+      "detail": {
+        "en": "Automatic, vehicle, and digital control with applied electronics",
+        "zh": "涵蓋自動、車輛、數位控制與應用電子"
+      }
+    },
+    {
+      "id": "design",
+      "value": "4.17 / 4.30",
+      "records": 11,
+      "credits": 24,
+      "title": {
+        "en": "Design, manufacturing & laboratory work",
+        "zh": "設計、製造與實驗"
+      },
+      "detail": {
+        "en": "From CAD and fabrication to measurement and test",
+        "zh": "從 CAD、製造到量測與實驗"
+      }
+    },
+    {
+      "id": "thermal",
+      "value": "4.03 / 4.30",
+      "records": 6,
+      "credits": 18,
+      "title": {
+        "en": "Thermal-fluids & energy",
+        "zh": "熱流與能源"
+      },
+      "detail": {
+        "en": "Fluids, thermodynamics, heat transfer, and energy",
+        "zh": "涵蓋流體、熱力、熱傳與能源"
+      }
+    }
+  ],
+  "semesters": [
+    {
+      "id": "111-1",
+      "en": "Fall 2022",
+      "zh": "111 學年度第 1 學期",
+      "earnedCredits": 22,
+      "gradedCredits": 22,
+      "gpa": "3.74 / 4.30",
+      "courses": [
+        {
+          "code": "CIE0005",
+          "title": {
+            "zh": "服務學習乙",
+            "en": "Service Learning (B)"
+          },
+          "credits": 0,
+          "result": {
+            "zh": "通過",
+            "en": "Pass"
+          },
+          "status": "pass",
+          "domain": "service"
+        },
+        {
+          "code": "CIE1005",
+          "title": {
+            "zh": "工程圖學",
+            "en": "Engineering Graphics"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "B",
+            "en": "B"
+          },
+          "status": "graded",
+          "domain": "design"
+        },
+        {
+          "code": "CIE1010",
+          "title": {
+            "zh": "測量學一",
+            "en": "Surveying I"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "civil"
+        },
+        {
+          "code": "CIE1012",
+          "title": {
+            "zh": "土木工程概念設計",
+            "en": "Conceptual Design in Civil Engineering"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "civil"
+        },
+        {
+          "code": "CIE1013",
+          "title": {
+            "zh": "應用力學1",
+            "en": "Applied Mechanics I"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics"
+        },
+        {
+          "code": "CIE1015",
+          "title": {
+            "zh": "工程數學1",
+            "en": "Engineering Mathematics I"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "CIE2016",
+          "title": {
+            "zh": "測量實習",
+            "en": "Surveying Practice"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "B",
+            "en": "B"
+          },
+          "status": "graded",
+          "domain": "civil"
+        },
+        {
+          "code": "JpnL1001",
+          "title": {
+            "zh": "日文上",
+            "en": "Japanese, First Semester"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "B+",
+            "en": "B+"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        },
+        {
+          "code": "MATH4006",
+          "title": {
+            "zh": "微積分1",
+            "en": "Calculus I"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "MATH4007",
+          "title": {
+            "zh": "微積分2",
+            "en": "Calculus II"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "PE1003",
+          "title": {
+            "zh": "健康體適能",
+            "en": "Health-Related Physical Fitness"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "team"
+        },
+        {
+          "code": "Psy1007",
+          "title": {
+            "zh": "普通心理學",
+            "en": "General Psychology"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "B",
+            "en": "B"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        }
+      ]
+    },
+    {
+      "id": "111-2",
+      "en": "Spring 2023",
+      "zh": "111 學年度第 2 學期",
+      "earnedCredits": 17,
+      "gradedCredits": 17,
+      "gpa": "4.16 / 4.30",
+      "courses": [
+        {
+          "code": "CIE1008",
+          "title": {
+            "zh": "計算機程式",
+            "en": "Computer Programming"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation"
+        },
+        {
+          "code": "CIE1011",
+          "title": {
+            "zh": "土木工程基本實作",
+            "en": "Fundamentals of Civil Engineering Practice"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "civil",
+          "relatedRoute": "/academics/coursework/physical-model-design-laboratory"
+        },
+        {
+          "code": "CIE1014",
+          "title": {
+            "zh": "應用力學2",
+            "en": "Applied Mechanics II"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics"
+        },
+        {
+          "code": "CIE1016",
+          "title": {
+            "zh": "工程數學2",
+            "en": "Engineering Mathematics II"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "MATH4008",
+          "title": {
+            "zh": "微積分3",
+            "en": "Calculus III"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "MATH4009",
+          "title": {
+            "zh": "微積分4",
+            "en": "Calculus IV"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "PE2097",
+          "title": {
+            "zh": "棒球初級",
+            "en": "Beginning Baseball"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "team"
+        },
+        {
+          "code": "Write5024",
+          "title": {
+            "zh": "小故事，大世界",
+            "en": "Small Stories, Big World"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A-",
+            "en": "A−"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        }
+      ]
+    },
+    {
+      "id": "112-1",
+      "en": "Fall 2023",
+      "zh": "112 學年度第 1 學期",
+      "earnedCredits": 17,
+      "gradedCredits": 12,
+      "gpa": "4.28 / 4.30",
+      "courses": [
+        {
+          "code": "CIE2013",
+          "title": {
+            "zh": "運輸工程",
+            "en": "Transportation Engineering"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "civil"
+        },
+        {
+          "code": "CIE2021",
+          "title": {
+            "zh": "工程數學3",
+            "en": "Engineering Mathematics III"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "MATH2213",
+          "title": {
+            "zh": "分析導論一",
+            "en": "Introduction to Mathematical Analysis I"
+          },
+          "credits": 5,
+          "result": {
+            "zh": "通過",
+            "en": "Pass"
+          },
+          "status": "pass",
+          "domain": "mathematics",
+          "note": {
+            "zh": "採通過／不通過制",
+            "en": "Pass/fail grading"
+          },
+          "relatedRoute": "/academics/coursework/introduction-to-mathematical-analysis-i"
+        },
+        {
+          "code": "ME1007",
+          "title": {
+            "zh": "工場實習",
+            "en": "Workshop Practice"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "design"
+        },
+        {
+          "code": "ME1010",
+          "title": {
+            "zh": "機械工程概論",
+            "en": "Introduction to Mechanical Engineering"
+          },
+          "credits": 0,
+          "result": {
+            "zh": "通過",
+            "en": "Pass"
+          },
+          "status": "pass",
+          "domain": "service"
+        },
+        {
+          "code": "ME2006",
+          "title": {
+            "zh": "機動學",
+            "en": "Kinematics of Machinery"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics"
+        },
+        {
+          "code": "Phys1006",
+          "title": {
+            "zh": "普通物理學甲上",
+            "en": "General Physics (A), First Semester"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "science"
+        }
+      ]
+    },
+    {
+      "id": "112-2",
+      "en": "Spring 2024",
+      "zh": "112 學年度第 2 學期",
+      "earnedCredits": 19,
+      "gradedCredits": 17,
+      "gpa": "4.19 / 4.30",
+      "courses": [
+        {
+          "code": "AM5035",
+          "title": {
+            "zh": "能源科學故事(二)：化石與再生能源",
+            "en": "Stories of Energy Science II: Fossil and Renewable Energy"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "thermal"
+        },
+        {
+          "code": "Chem1009",
+          "title": {
+            "zh": "普通化學丙",
+            "en": "General Chemistry (C)"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "science"
+        },
+        {
+          "code": "CIE2009",
+          "title": {
+            "zh": "流體力學",
+            "en": "Fluid Mechanics"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "thermal",
+          "relatedRoute": "/academics/coursework/fluid-mechanics"
+        },
+        {
+          "code": "GenEdu2009",
+          "title": {
+            "zh": "新生講座-活出精彩",
+            "en": "Freshman Seminar: Living Life to the Fullest"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "通過",
+            "en": "Pass"
+          },
+          "status": "pass",
+          "domain": "humanities",
+          "note": {
+            "zh": "採通過／不通過制",
+            "en": "Pass/fail grading"
+          }
+        },
+        {
+          "code": "ME0005",
+          "title": {
+            "zh": "服務學習乙",
+            "en": "Service Learning (B)"
+          },
+          "credits": 0,
+          "result": {
+            "zh": "通過",
+            "en": "Pass"
+          },
+          "status": "pass",
+          "domain": "service"
+        },
+        {
+          "code": "ME1003",
+          "title": {
+            "zh": "工程圖學",
+            "en": "Engineering Graphics"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/coursework/engineering-graphics"
+        },
+        {
+          "code": "ME1006",
+          "title": {
+            "zh": "動力學",
+            "en": "Dynamics"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics"
+        },
+        {
+          "code": "ME2008",
+          "title": {
+            "zh": "機械製造",
+            "en": "Manufacturing Processes"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "停修",
+            "en": "Withdrawn"
+          },
+          "status": "withdrawn",
+          "domain": "design",
+          "note": {
+            "zh": "後於113-2重新修習並獲A+",
+            "en": "Completed with A+ in Spring 2025"
+          }
+        },
+        {
+          "code": "Phys1007",
+          "title": {
+            "zh": "普通物理學甲下",
+            "en": "General Physics (A), Second Semester"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "science"
+        }
+      ]
+    },
+    {
+      "id": "113-1",
+      "en": "Fall 2024",
+      "zh": "113 學年度第 1 學期",
+      "earnedCredits": 19,
+      "gradedCredits": 19,
+      "gpa": "4.15 / 4.30",
+      "courses": [
+        {
+          "code": "CHIN8012",
+          "title": {
+            "zh": "大學國文：文學鑑賞與寫作（一）",
+            "en": "College Chinese: Literary Appreciation and Writing I"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        },
+        {
+          "code": "LibEdu1020",
+          "title": {
+            "zh": "鋼琴作品與演奏欣賞",
+            "en": "Appreciation of Piano Repertoire and Performance"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        },
+        {
+          "code": "ME2004",
+          "title": {
+            "zh": "工程材料",
+            "en": "Engineering Materials"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design"
+        },
+        {
+          "code": "ME2005",
+          "title": {
+            "zh": "熱力學",
+            "en": "Thermodynamics"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "thermal"
+        },
+        {
+          "code": "ME3003",
+          "title": {
+            "zh": "熱傳學",
+            "en": "Heat Transfer"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "停修",
+            "en": "Withdrawn"
+          },
+          "status": "withdrawn",
+          "domain": "thermal",
+          "note": {
+            "zh": "後於114-1重新修習並獲A",
+            "en": "Completed with A in Fall 2025"
+          }
+        },
+        {
+          "code": "ME3007",
+          "title": {
+            "zh": "自動控制",
+            "en": "Automatic Control"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "computation"
+        },
+        {
+          "code": "ME3008",
+          "title": {
+            "zh": "機械工程量測原理",
+            "en": "Principles of Mechanical Engineering Measurement"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "B+",
+            "en": "B+"
+          },
+          "status": "graded",
+          "domain": "design"
+        },
+        {
+          "code": "ME3009",
+          "title": {
+            "zh": "機械工程實驗（一）",
+            "en": "Mechanical Engineering Laboratory I"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design"
+        },
+        {
+          "code": "PE2084",
+          "title": {
+            "zh": "籃球初級",
+            "en": "Beginning Basketball"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "team"
+        },
+        {
+          "code": "Phys1040",
+          "title": {
+            "zh": "普通物理學實驗一",
+            "en": "General Physics Laboratory I"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "science"
+        }
+      ]
+    },
+    {
+      "id": "113-2",
+      "en": "Spring 2025",
+      "zh": "113 學年度第 2 學期",
+      "earnedCredits": 22,
+      "gradedCredits": 22,
+      "gpa": "4.29 / 4.30",
+      "courses": [
+        {
+          "code": "Chem1010",
+          "title": {
+            "zh": "普通化學實驗",
+            "en": "General Chemistry Laboratory"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "science"
+        },
+        {
+          "code": "JpnL2018",
+          "title": {
+            "zh": "日文一下",
+            "en": "Japanese I, Second Semester"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "humanities"
+        },
+        {
+          "code": "ME2002",
+          "title": {
+            "zh": "工程數學下",
+            "en": "Engineering Mathematics (II)"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "ME2003",
+          "title": {
+            "zh": "材料力學",
+            "en": "Mechanics of Materials"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "停修",
+            "en": "Withdrawn"
+          },
+          "status": "withdrawn",
+          "domain": "mechanics",
+          "note": {
+            "zh": "後於114-2重新修習並獲A+",
+            "en": "Completed with A+ in Spring 2026"
+          }
+        },
+        {
+          "code": "ME2007",
+          "title": {
+            "zh": "流體力學",
+            "en": "Fluid Mechanics"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "thermal",
+          "relatedRoute": "/academics/coursework/fluid-mechanics"
+        },
+        {
+          "code": "ME2008",
+          "title": {
+            "zh": "機械製造",
+            "en": "Manufacturing Processes"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "note": {
+            "zh": "重新修習完成",
+            "en": "Completed after an earlier withdrawal"
+          }
+        },
+        {
+          "code": "ME3010",
+          "title": {
+            "zh": "機械工程實驗（二）",
+            "en": "Mechanical Engineering Laboratory II"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/mechanical-laboratory-ii"
+        },
+        {
+          "code": "ME5003",
+          "title": {
+            "zh": "車輛動力學與控制",
+            "en": "Vehicle Dynamics and Control"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation",
+          "relatedRoute": "/academics/coursework/vehicle-dynamics-and-control"
+        },
+        {
+          "code": "ME5248",
+          "title": {
+            "zh": "電腦輔助工程製圖",
+            "en": "Computer-Aided Engineering Drawing"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/coursework/computer-aided-engineering-drawing"
+        },
+        {
+          "code": "PE2074",
+          "title": {
+            "zh": "桌球初級",
+            "en": "Beginning Table Tennis"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "team"
+        },
+        {
+          "code": "Phys1042",
+          "title": {
+            "zh": "普通物理學實驗二",
+            "en": "General Physics Laboratory II"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "science"
+        }
+      ]
+    },
+    {
+      "id": "114-1",
+      "en": "Fall 2025",
+      "zh": "114 學年度第 1 學期",
+      "earnedCredits": 26,
+      "gradedCredits": 26,
+      "gpa": "4.07 / 4.30",
+      "courses": [
+        {
+          "code": "IE5034",
+          "title": {
+            "zh": "線性代數與應用",
+            "en": "Linear Algebra and Applications"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation",
+          "relatedRoute": "/academics/linear-algebra-fft"
+        },
+        {
+          "code": "ME1005",
+          "title": {
+            "zh": "靜力學",
+            "en": "Statics"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics"
+        },
+        {
+          "code": "ME2001",
+          "title": {
+            "zh": "工程數學上",
+            "en": "Engineering Mathematics (I)"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mathematics",
+          "relatedRoute": "/academics/engineering-mathematics"
+        },
+        {
+          "code": "ME2102",
+          "title": {
+            "zh": "應用電子學(含實驗)",
+            "en": "Applied Electronics (with Laboratory)"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation"
+        },
+        {
+          "code": "ME3003",
+          "title": {
+            "zh": "熱傳學",
+            "en": "Heat Transfer"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "thermal",
+          "note": {
+            "zh": "重新修習完成",
+            "en": "Completed after an earlier withdrawal"
+          }
+        },
+        {
+          "code": "ME3004",
+          "title": {
+            "zh": "機械設計原理",
+            "en": "Principles of Machine Design"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/coursework/machine-design-theory"
+        },
+        {
+          "code": "ME3903",
+          "title": {
+            "zh": "流體力學二",
+            "en": "Fluid Mechanics II"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "B+",
+            "en": "B+"
+          },
+          "status": "graded",
+          "domain": "thermal",
+          "relatedRoute": "/academics/coursework/fluid-mechanics"
+        },
+        {
+          "code": "ME5067",
+          "title": {
+            "zh": "精密量測論文研討",
+            "en": "Precision Measurement Literature Seminar"
+          },
+          "credits": 1,
+          "result": {
+            "zh": "A-",
+            "en": "A−"
+          },
+          "status": "graded",
+          "domain": "research"
+        },
+        {
+          "code": "ME5080",
+          "title": {
+            "zh": "積層製造",
+            "en": "Additive Manufacturing"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/coursework/additive-manufacturing"
+        },
+        {
+          "code": "ME5105",
+          "title": {
+            "zh": "學士專題研究",
+            "en": "Undergraduate Thesis Research"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "research",
+          "relatedRoute": "/research/redrhex"
+        }
+      ]
+    },
+    {
+      "id": "114-2",
+      "en": "Spring 2026",
+      "zh": "114 學年度第 2 學期",
+      "earnedCredits": 21,
+      "gradedCredits": 21,
+      "gpa": "4.27 / 4.30",
+      "courses": [
+        {
+          "code": "ME1011",
+          "title": {
+            "zh": "機械工程實務",
+            "en": "Practice of Mechanical Engineering"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "design",
+          "relatedRoute": "/academics/coursework/practice-of-mechanical-engineering"
+        },
+        {
+          "code": "ME2003",
+          "title": {
+            "zh": "材料力學",
+            "en": "Mechanics of Materials"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics",
+          "note": {
+            "zh": "重新修習完成",
+            "en": "Completed after an earlier withdrawal"
+          }
+        },
+        {
+          "code": "ME5105",
+          "title": {
+            "zh": "學士專題研究",
+            "en": "Undergraduate Thesis Research"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A",
+            "en": "A"
+          },
+          "status": "graded",
+          "domain": "research",
+          "relatedRoute": "/research/redrhex"
+        },
+        {
+          "code": "ME5113",
+          "title": {
+            "zh": "數值分析",
+            "en": "Numerical Analysis"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation",
+          "relatedRoute": "/academics/numerical-analysis"
+        },
+        {
+          "code": "ME5148",
+          "title": {
+            "zh": "中等動力學",
+            "en": "Intermediate Dynamics"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "mechanics",
+          "relatedRoute": "/academics/intermediate-dynamics"
+        },
+        {
+          "code": "ME5196",
+          "title": {
+            "zh": "冷凍空調原理",
+            "en": "Principles of Refrigeration and Air Conditioning"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "停修",
+            "en": "Withdrawn"
+          },
+          "status": "withdrawn",
+          "domain": "thermal"
+        },
+        {
+          "code": "ME5247",
+          "title": {
+            "zh": "數位控制系統",
+            "en": "Digital Control Systems"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation"
+        },
+        {
+          "code": "CSIE1929",
+          "title": {
+            "zh": "Python 計算機程式設計",
+            "en": "Computer Programming in Python"
+          },
+          "credits": 3,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "computation",
+          "note": {
+            "zh": "通識領域A6",
+            "en": "General Education area A6"
+          },
+          "relatedRoute": "/academics/coursework/computer-programming-in-python"
+        },
+        {
+          "code": "LibEdu1021",
+          "title": {
+            "zh": "邏輯",
+            "en": "Logic"
+          },
+          "credits": 2,
+          "result": {
+            "zh": "A+",
+            "en": "A+"
+          },
+          "status": "graded",
+          "domain": "humanities",
+          "note": {
+            "zh": "通識領域A4",
+            "en": "General Education area A4"
+          }
+        }
+      ]
+    }
+  ],
+  "exemptions": [
+    {
+      "code": "AdvEng2011",
+      "title": {
+        "zh": "進階英語一",
+        "en": "Advanced English I"
+      },
+      "credits": 0,
+      "result": {
+        "zh": "免修",
+        "en": "Exempt"
+      },
+      "status": "exempt",
+      "domain": "humanities"
+    },
+    {
+      "code": "AdvEng2012",
+      "title": {
+        "zh": "進階英語二",
+        "en": "Advanced English II"
+      },
+      "credits": 0,
+      "result": {
+        "zh": "免修",
+        "en": "Exempt"
+      },
+      "status": "exempt",
+      "domain": "humanities"
+    }
+  ]
+}

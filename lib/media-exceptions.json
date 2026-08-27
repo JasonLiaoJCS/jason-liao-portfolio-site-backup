@@ -1,0 +1,90 @@
+[
+  {
+    "id": "img-335c7400004f",
+    "sourceLogicalId": "asset-335c7400004f-101",
+    "sourceSha256": "335C7400004F4110A91BCAEFB41EAD9EEB57E5679FDFB70788537BCCF41A6671",
+    "route": "/research/redrhex",
+    "titleEn": "RedRHex remote activity control workflow",
+    "titleZh": "RedRHex 遠端任務控制流程",
+    "reason": "withheld_internal_paths_or_infrastructure_details",
+    "disposition": "source_not_deployed_internal_detail_exclusion",
+    "safeAlternative": "The public RedRHex page includes nine safe diagrams and photographs without exposing internal paths, accounts, or infrastructure details."
+  },
+  {
+    "id": "img-75755cc8c872",
+    "sourceLogicalId": "asset-75755cc8c872-81",
+    "sourceSha256": "75755CC8C872A6248B43FB85A4731929CD827737ECC8BA85A59DA9317DAC49CB",
+    "route": "/research/redrhex",
+    "titleEn": "RedRHex training metric monitoring",
+    "titleZh": "RedRHex 訓練指標監控",
+    "reason": "withheld_internal_paths_or_infrastructure_details",
+    "disposition": "source_not_deployed_internal_detail_exclusion",
+    "safeAlternative": "The public RedRHex page includes nine safe diagrams and photographs without exposing internal paths, accounts, or infrastructure details."
+  },
+  {
+    "id": "img-d52bd49ad23b",
+    "sourceLogicalId": "asset-d52bd49ad23b-99",
+    "sourceSha256": "D52BD49AD23B3C88F509911CF716C3B2B4430420BDA9E40B8278710EE9348A2E",
+    "route": "/research/redrhex",
+    "titleEn": "RedRHex training history, console, and TensorBoard diagnostics",
+    "titleZh": "RedRHex 訓練歷程、控制台與 TensorBoard 診斷",
+    "reason": "withheld_internal_paths_or_infrastructure_details",
+    "disposition": "source_not_deployed_internal_detail_exclusion",
+    "safeAlternative": "The public RedRHex page includes nine safe diagrams and photographs without exposing internal paths, accounts, or infrastructure details."
+  },
+  {
+    "id": "img-ec2c26f09677",
+    "sourceLogicalId": "asset-ec2c26f09677-100",
+    "sourceSha256": "EC2C26F0967708C5E6BDE2FE74D0AED10775184FB60E224160DC518678BF2AF3",
+    "route": "/research/redrhex",
+    "titleEn": "RedRHex deployment and video validation workflow",
+    "titleZh": "RedRHex 部署與影片驗證流程",
+    "reason": "withheld_internal_paths_or_infrastructure_details",
+    "disposition": "source_not_deployed_internal_detail_exclusion",
+    "safeAlternative": "The public RedRHex page includes nine safe diagrams and photographs without exposing internal paths, accounts, or infrastructure details."
+  },
+  {
+    "id": "img-52c39b4a7147",
+    "sourceLogicalId": "asset-52c39b4a7147-182",
+    "sourceSha256": "52C39B4A7147AD2B9C450C7C9BB46CCC2A8CC282286B304A3B6C6238752308CA",
+    "route": "/experience/zhongshan-primary-science-camp",
+    "titleEn": "Yilan Zhongshan Elementary School science camp recruitment poster",
+    "titleZh": "宜蘭中山科學營招生海報",
+    "reason": "withheld_third_party_contact_details",
+    "disposition": "source_not_deployed_pending_targeted_contact_redaction",
+    "safeAlternative": "The bilingual event narrative and two public event photographs document the camp without exposing telephone numbers."
+  },
+  {
+    "id": "img-bf8ea31854dd",
+    "sourceLogicalId": "asset-bf8ea31854dd-188",
+    "sourceSha256": "BF8EA31854DDE76B5A10347BD6DD272FDF0CAEA28C0CB3A727C2391AD73A34CF",
+    "route": "/experience/international-student-document-support",
+    "titleEn": "International student volunteer onboarding email",
+    "titleZh": "國際生志工行前通知郵件",
+    "reason": "withheld_third_party_identity_and_email_header",
+    "disposition": "source_not_deployed_pending_crop_and_identity_redaction",
+    "safeAlternative": "The public case narrative preserves the coordination and cross-cultural support outcome without exposing an identifiable student or email account."
+  },
+  {
+    "id": "img-eb887ddd2d08",
+    "sourceLogicalId": "asset-eb887ddd2d08-212",
+    "sourceSha256": "EB887DDD2D088B5820DB50B81DA6F6F1100033C4706F3BF64F83385A8BDB26EF",
+    "route": "/experience/apx-2021",
+    "titleEn": "2021 APX upper-intermediate mathematics bronze certificate",
+    "titleZh": "2021 APX 數學中高級銅牌證書",
+    "reason": "never_deploy_government_identifier",
+    "disposition": "source_original_permanently_excluded_until_government_id_is_irreversibly_redacted",
+    "safeAlternative": "The bilingual APX record publishes the verified award level without exposing the certificate's government identifier."
+  },
+  {
+    "id": "img-b54b450dcbe6",
+    "sourceLogicalId": "asset-b54b450dcbe6-213",
+    "sourceSha256": "B54B450DCBE6F3D6EA27C8EDCFA669E541EC9BA81201111C1001C3E2B11A1916",
+    "route": "/experience/apx-2021",
+    "titleEn": "2021 APX advanced mathematics qualification certificate",
+    "titleZh": "2021 APX 數學高級合格證書",
+    "reason": "never_deploy_government_identifier",
+    "disposition": "source_original_permanently_excluded_until_government_id_is_irreversibly_redacted",
+    "safeAlternative": "The bilingual APX record publishes the verified qualification without exposing the certificate's government identifier."
+  }
+]
